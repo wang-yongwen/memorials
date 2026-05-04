@@ -75,11 +75,29 @@
 
 ## 2021年
 
+- [袁隆平](people/yuan-long-ping.md)（享年91岁）- 杂交水稻之父，共和国勋章获得者
+- [左晖](people/zuo-hui.md)（享年50岁）- 贝壳找房创始人，链家创始人
 - [吴孟达](people/wu-meng-da.md)（享年68岁）- 香港著名喜剧演员
+- [张少华](people/zhang-shao-hua.md)（享年75岁）- 中国内地影视演员，《大宅门》主演
 
 ## 2020年
 
+- [奥利维亚·德哈维兰](people/olivia-de-havilland.md)（享年104岁）- 美国著名女演员，两次奥斯卡最佳女主角奖得主
+- [何鸿燊](people/stanley-ho.md)（享年98岁）- 澳门赌王，爱国企业家、慈善家
+- [皮尔·卡丹](people/pierre-cardin.md)（享年98岁）- 法国著名时装设计师，时尚帝国缔造者
+- [肖恩·康纳利](people/sean-connery.md)（享年90岁）- 英国著名演员，永远的007詹姆斯·邦德
+- [傅聪](people/fou-tsong.md)（享年86岁）- 著名钢琴家，"中国的肖邦"，傅雷之子
 - [科比·布莱恩特](people/kobe-bryant.md)（享年41岁）- 美国职业篮球运动员
+
+## 2019年
+
+- [玛丽·弗雷德里克森](people/marie-fredriksson.md)（享年61岁）- 瑞典著名歌手，Roxette乐队主唱
+- [姚莉](people/yao-li.md)（享年96岁）- 民国时期著名歌手，"银嗓子"
+- [贝聿铭](people/i-ming-pei.md)（享年102岁）- 美籍华裔建筑师，"现代建筑最后大师"
+- [褚时健](people/chu-shijian.md)（享年91岁）- 中国烟草大王、中国橙王
+- [臧健和](people/zang-jianhe.md)（享年73岁）- 湾仔码头创始人，"水饺皇后"
+- [于敏](people/yu-min.md)（享年93岁）- 中国"氢弹之父"，共和国勋章获得者
+- [顾方舟](people/gu-fangzhou.md)（享年92岁）- "糖丸爷爷，"中国脊髓灰质炎疫苗之父
 
 ## 2018年
 
@@ -97,8 +115,8 @@
 
 ## 2007年
 
-- [陈晓旭](people/chen-xiao-xu.md)（享年42岁）- 中国内地女演员
+- [陈晓旭](people/chen-xiao-xu.md)（享年42岁）- 中国内地著名女演员，87版《红楼梦》林黛玉扮演者
 
 ## 1997年
 
-- [邓小平](people/deng-xiao-ping.md)（享年93岁）- 中国改革开放的总设计师
+- [邓小平](people/deng-xiao-ping.md)（享年93岁）- 中国改革开放总设计师
