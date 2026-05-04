@@ -60,6 +60,19 @@
 - [谢莉斯](people/xie-li-si.md)（享年75岁）- 中国电影乐团歌唱家
 - [年广久](people/nian-guang-jiu.md)（享年83岁）- "傻子瓜子"创始人，中国第一商贩
 
+## 2022年
+
+- [贝利](people/pele.md)（享年82岁）- 巴西球王，世纪最佳运动员
+- [稻盛和夫](people/inamori-kazuo.md)（享年90岁）- 京瓷创始人，日本经营之圣
+- [倪匡](people/ni-kuang.md)（享年87岁）- 香港四大才子，卫斯理系列作者
+- [任溶溶](people/ren-rong-rong.md)（享年99岁）- 著名儿童文学作家、翻译家
+- [乔羽](people/qiao-yu.md)（享年94岁）- 词坛泰斗，《我的祖国》词作者
+- [Vangelis](people/vangelis.md)（享年79岁）- 希腊音乐家，《火的战车》配乐
+- [Robbie Coltrane](people/robbie-coltrane.md)（享年72岁）- 英国演员，《哈利·波特》海格扮演者
+- [沈庆](people/shen-qing.md)（享年52岁）- 校园民谣代表人物，《青春》作者
+- [陆树铭](people/lu-shu-ming.md)（享年66岁）- 《三国演义》关羽扮演者
+- [李靖飞](people/li-jing-fei.md)（享年65岁）- 《三国演义》张飞扮演者
+
 ## 2021年
 
 - [吴孟达](people/wu-meng-da.md)（享年68岁）- 香港著名喜剧演员
@@ -88,4 +101,4 @@
 
 ## 1997年
 
-- [邓小平](people/deng-xiao-ping.md)（享年93岁）- 中国改革开放的总设计师
+- [邓小平
