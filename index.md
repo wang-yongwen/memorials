@@ -241,6 +241,27 @@
 
 - [袁世海](people/yuan-shihai.md)（享年86岁）- 京剧表演艺术家
 
+## 2001年
+
+- [张学良](people/zhang-xueliang.md)（享年101岁）- 爱国将领，西安事变发动者
+
+## 2000年
+
+- [李婉芬](people/li-wanfen.md)（享年68岁）- 表演艺术家
+- [赵丽蓉](people/zhao-lirong.md)（享年72岁）- 小品演员
+- [赵朴初](people/zhao-puchu.md)（享年93岁）- 宗教领袖、诗人
+- [黄仁宇](people/huang-renyu.md)（享年82岁）- 历史学家
+
+## 1999年
+
+- [贺绿汀](people/he-luting.md)（享年96岁）- 作曲家
+- [冰心](people/bin-xin.md)（享年99岁）- 作家
+
+## 1998年
+
+- [钱钟书](people/qian-zhongshu.md)（享年88岁）- 作家，《围城》作者
+- [黑泽明](people/akira-kurosawa.md)（享年88岁）- 日本电影导演
+
 ## 1997年
 
 - [邓小平](people/deng-xiao-ping.md)（享年93岁）- 中国改革开放总设计师
