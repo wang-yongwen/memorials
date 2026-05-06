@@ -17,8 +17,6 @@
 - [杨少华](people/yang-shao-hua.md)（享年94岁）- 中国著名相声表演艺术家
 - [蔡澜](people/cai-lan.md)（享年83岁）- 香港四大才子之一，美食家、作家
 - [徐熙媛](people/xu-xi-yuan.md)（享年48岁）- 中国台湾著名女演员、歌手
-- [方大同](people/fang-da-tong.md)（享年41岁）- 著名华语流行歌手、词曲创作人
-
 ## 2024年
 
 - [琼瑶](people/qiong-yao.md)（享年86岁）- 台湾言情小说家、编剧
