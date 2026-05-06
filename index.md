@@ -42,6 +42,8 @@
 - [宗庆后](people/zong-qing-hou.md)（享年79岁）- 娃哈哈集团创始人
 - [小泽征尔](people/seiji-ozawa.md)（享年88岁）- 日本著名指挥家
 - [鸟山明](people/toriyama-akira.md)（享年68岁）- 日本漫画家，《龙珠》作者
+- [陈彼得](people/chen-bide.md)（享年80岁）- 台湾流行音乐之父
+- [郭士纳](people/lou-gerstner.md)（享年82岁）- IBM前CEO，带领IBM转型复兴
 
 ## 2023年
 
@@ -265,3 +267,27 @@
 ## 1997年
 
 - [邓小平](people/deng-xiao-ping.md)（享年93岁）- 中国改革开放总设计师
+- [戴安娜王妃](people/diana-princess.md)（享年36岁）- 英国威尔士王妃
+- [王小波](people/wang-xiaobo.md)（享年45岁）- 作家
+
+## 1996年
+
+- [徐迟](people/xu-chi.md)（享年82岁）- 诗人、散文家
+- [艾青](people/ai-qing.md)（享年86岁）- 诗人
+- [王洛宾](people/wang-luobin.md)（享年83岁）- 作曲家
+- [陈景润](people/chen-jingrun.md)（享年63岁）- 数学家
+- [李沛瑶](people/li-peiyao.md)（享年63岁）- 民革中央主席
+
+## 1995年
+
+- [伊扎克·拉宾](people/yitzhak-rabin.md)（享年73岁）- 以色列前总理
+- [张爱玲](people/zhang-ailing.md)（享年75岁）- 作家
+- [洛桑·尼玛](people/luosang-nyima.md)（享年27岁）- 相声演员
+- [邓丽君](people/deng-lijun.md)（享年42岁）- 歌手
+
+## 1994年
+
+- [杨得志](people/yang-dezhi.md)（享年83岁）- 中国人民解放军上将
+- [爱新觉罗·溥杰](people/aixinjueluo-pujie.md)（享年87岁）- 清朝末代皇帝溥仪之弟
+- [理查德·尼克松](people/richard-nixon.md)（享年81岁）- 美国第37任总统
+
