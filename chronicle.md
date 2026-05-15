@@ -55,6 +55,7 @@
 
 ## 2024年
 
+- [周光召](celebrity/zhou-guangzhao.md)（享年94岁）- 中国科学院院士，中国核武器理论奠基人
 - [琼瑶](celebrity/qiong-yao.md)（享年86岁）- 台湾言情小说家、编剧
 - [李政道](celebrity/li-zheng-dao.md)（享年97岁）- 诺贝尔物理学奖获得者，美籍华人物理学家
 - [叶嘉莹](celebrity/ye-jia-ying.md)（享年100岁）- 中国古典文学研究泰斗

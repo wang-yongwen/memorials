@@ -58,10 +58,10 @@
 - [沈绪榜](celebrity/shen-xu-bang.md)（享年92岁）- 中国科学院院士，计算机专家
 - [杨士莪](celebrity/yang-shi-e.md)（享年93岁）- 中国工程院院士，水声工程专家
 - [汤晓鸥](celebrity/tang-xiao-ou.md)（享年55岁）- 商汤科技创始人、AI科学家
+- [周光召](celebrity/zhou-guangzhao.md)（享年94岁）- 中国科学院院士，中国核武器理论奠基人
 
 ## 文学家与作家
 
-- [鲁迅](celebrity/lu-xun.md)（享年55岁）- 中国现代文学奠基人
 - [钱钟书](celebrity/qian-zhongshu.md)（享年88岁）- 作家，《围城》作者
 - [杨绛](celebrity/yang-jiang.md)（享年105岁）- 作家、翻译家
 - [冰心](celebrity/bin-xin.md)（享年99岁）- 作家
@@ -89,7 +89,6 @@
 
 ## 艺术家与演员
 
-- [梅兰芳](celebrity/mei-lan-fang.md)（享年67岁）- 京剧大师
 - [袁世海](celebrity/yuan-shihai.md)（享年86岁）- 京剧表演艺术家
 - [童祥苓](celebrity/tong-xiang-ling.md)（享年89岁）- 著名京剧表演艺术家
 - [启功](celebrity/qi-gong.md)（享年93岁）- 书法家、教育家
@@ -149,10 +148,10 @@
 - [凤飞飞](celebrity/fong-fei-fei.md)（享年58岁）- 台湾歌手
 - [千百惠](celebrity/qian-bai-hui.md)（享年62岁）- 中国台湾著名女歌手
 - [姚贝娜](celebrity/yao-bei-na.md)（享年33岁）- 中国内地著名青年歌手
-- [苏芮](celebrity/su-rui.md)（享年72岁）- 中国台湾著名歌手
 - [迈克尔·杰克逊](celebrity/michael-jackson.md)（享年50岁）- 流行音乐之王
 - [坂本龙一](celebrity/ryuichi-sakamoto.md)（享年71岁）- 日本音乐大师，《末代皇帝》配乐
 - [谷村新司](celebrity/tanimura-shinji.md)（享年74岁）- 日本国宝级歌手
+- [傅聪](celebrity/fou-tsong.md)（享年86岁）- 著名钢琴家，"中国的肖邦"
 - [Vangelis](celebrity/vangelis.md)（享年79岁）- 希腊音乐家，《火的战车》配乐
 - [玛丽·弗雷德里克森](celebrity/marie-fredriksson.md)（享年61岁）- 瑞典著名歌手，Roxette乐队主唱
 - [德德玛](celebrity/de-de-ma.md)（享年76岁）- 蒙古族著名女中音歌唱家
