@@ -31,6 +31,7 @@
 - [张震](celebrity/zhang-zhen.md)（享年101岁）- 中国人民解放军上将
 - [杨得志](celebrity/yang-dezhi.md)（享年83岁）- 中国人民解放军上将
 - [李沛瑶](celebrity/li-peiyao.md)（享年63岁）- 民革中央主席
+- [任长霞](celebrity/ren-changxia.md)（享年40岁）- 中国公安系统一级英雄模范，登封市公安局局长
 
 ## 科学家与学者
 
@@ -49,6 +50,7 @@
 - [顾方舟](celebrity/gu-fangzhou.md)（享年92岁）- "糖丸爷爷"，中国脊髓灰质炎疫苗之父
 - [黄大年](celebrity/huang-danian.md)（享年58岁）- 世界著名地球物理学家
 - [厉以宁](celebrity/li-yi-ning.md)（享年92岁）- 中国著名经济学家，股份制改革倡导者
+- [李泽厚](celebrity/li-ze-hou.md)（享年91岁）- 中国当代著名哲学家、美学家
 - [彼得·德鲁克](celebrity/peter-drucker.md)（享年95岁）- 现代管理学之父
 - [戈登·摩尔](celebrity/gordon-moore.md)（享年94岁）- 英特尔公司联合创始人
 - [丹尼斯·里奇](celebrity/dennis-ritchie.md)（享年70岁）- C语言创造者
@@ -58,6 +60,8 @@
 - [沈绪榜](celebrity/shen-xu-bang.md)（享年92岁）- 中国科学院院士，计算机专家
 - [杨士莪](celebrity/yang-shi-e.md)（享年93岁）- 中国工程院院士，水声工程专家
 - [汤晓鸥](celebrity/tang-xiao-ou.md)（享年55岁）- 商汤科技创始人、AI科学家
+- [吴尊友](celebrity/wu-zun-you.md)（享年60岁）- 中国疾控中心流行病学首席专家
+- [戈登·贝尔](celebrity/gordon-bell.md)（享年89岁）- 美国计算机体系结构先驱，DEC小型机之父
 - [周光召](celebrity/zhou-guangzhao.md)（享年94岁）- 中国科学院院士，中国核武器理论奠基人
 
 ## 文学家与作家
@@ -160,6 +164,7 @@
 - [俞逊发](celebrity/yu-xunfa.md)（享年60岁）- 笛子演奏家
 - [谢莉斯](celebrity/xie-li-si.md)（享年75岁）- 中国电影乐团歌唱家
 - [小泽征尔](celebrity/seiji-ozawa.md)（享年88岁）- 日本著名指挥家
+- [杨立德](celebrity/yang-li-de.md)（享年73岁）- 台湾著名词曲作家，音乐制作人
 
 ## 曲艺与表演艺术家
 

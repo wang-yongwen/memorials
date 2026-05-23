@@ -73,16 +73,19 @@
 - [曼莫汉·辛格](celebrity/manmohan-singh.md)（享年92岁）- 印度前总理，印度经济改革之父
 - [玛吉·史密斯](celebrity/maggie-smith.md)（享年89岁）- 英国著名女演员，奥斯卡奖得主
 - [沈绪榜](celebrity/shen-xu-bang.md)（享年92岁）- 中国科学院院士，计算机专家
+- [戈登·贝尔](celebrity/gordon-bell.md)（享年89岁）- 美国计算机体系结构先驱，DEC小型机之父
 - [杨士莪](celebrity/yang-shi-e.md)（享年93岁）- 中国工程院院士，水声工程专家
 - [宗庆后](celebrity/zong-qing-hou.md)（享年79岁）- 娃哈哈集团创始人
 - [小泽征尔](celebrity/seiji-ozawa.md)（享年88岁）- 日本著名指挥家
 - [鸟山明](celebrity/toriyama-akira.md)（享年68岁）- 日本漫画家，《龙珠》作者
 - [陈彼得](celebrity/chen-bide.md)（享年80岁）- 台湾流行音乐之父
 - [郭士纳](celebrity/lou-gerstner.md)（享年82岁）- IBM前CEO，带领IBM转型复兴
+- [杨立德](celebrity/yang-li-de.md)（享年73岁）- 台湾著名词曲作家，音乐制作人
 
 ## 2023年
 
 - [汤晓鸥](celebrity/tang-xiao-ou.md)（享年55岁）- 商汤科技创始人、AI科学家
+- [吴尊友](celebrity/wu-zun-you.md)（享年60岁）- 中国疾控中心流行病学首席专家
 - [查理·芒格](celebrity/charlie-munger.md)（享年99岁）- 伯克希尔公司副主席，巴菲特黄金搭档
 - [马修·派瑞](celebrity/matthew-perry.md)（享年54岁）- 美剧《老友记》钱德勒扮演者
 - [迈克尔·甘本](celebrity/michael-gambon.md)（享年82岁）- 英国演员，《哈利·波特》邓布利多校长
@@ -118,6 +121,7 @@
 ## 2021年
 
 - [袁隆平](celebrity/yuan-long-ping.md)（享年91岁）- 杂交水稻之父，共和国勋章获得者
+- [李泽厚](celebrity/li-ze-hou.md)（享年91岁）- 中国当代著名哲学家、美学家
 - [左晖](celebrity/zuo-hui.md)（享年50岁）- 贝壳找房创始人，链家创始人
 - [吴孟达](celebrity/wu-meng-da.md)（享年68岁）- 香港著名喜剧演员
 - [张少华](celebrity/zhang-shao-hua.md)（享年75岁）- 中国内地影视演员，《大宅门》主演
@@ -263,6 +267,7 @@
 
 ## 2004年
 
+- [任长霞](celebrity/ren-changxia.md)（享年40岁）- 中国公安系统一级英雄模范，登封市公安局局长
 - [陈省身](celebrity/chen-xingshen.md)（享年93岁）- 微分几何之父
 
 ## 2003年
