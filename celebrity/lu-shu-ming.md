@@ -1,6 +1,6 @@
 # 陆树铭
 
-![](pics/lu-shu-ming.jpg)
+![](../pics/lu-shu-ming.jpg)
 
 - 姓名：陆树铭
 - 性别：男

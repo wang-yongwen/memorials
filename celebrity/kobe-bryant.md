@@ -1,6 +1,6 @@
 # 科比·布莱恩特
 
-![](pics/kobe-bryant.jpg)
+![](../pics/kobe-bryant.jpg)
 
 - 姓名：科比·布莱恩特
 - 性别：男

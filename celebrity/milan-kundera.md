@@ -1,6 +1,6 @@
 # 米兰·昆德拉
 
-![](pics/milan-kundera.jpg)
+![](../pics/milan-kundera.jpg)
 
 - 姓名：米兰·昆德拉
 - 性别：男

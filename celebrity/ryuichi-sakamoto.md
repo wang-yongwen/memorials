@@ -1,6 +1,6 @@
 # 坂本龙一
 
-![](pics/ryuichi-sakamoto.jpg)
+![](../pics/ryuichi-sakamoto.jpg)
 
 - 姓名：坂本龙一
 - 性别：男

@@ -1,6 +1,6 @@
 # 任溶溶
 
-![](pics/ren-rong-rong.jpg)
+![](../pics/ren-rong-rong.jpg)
 
 - 姓名：任溶溶
 - 性别：男

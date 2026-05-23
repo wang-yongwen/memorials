@@ -1,6 +1,6 @@
 # 邵逸夫
 
-![](pics/run-run-shaw.jpg)
+![](../pics/run-run-shaw.jpg)
 
 - 姓名：邵逸夫
 - 性别：男

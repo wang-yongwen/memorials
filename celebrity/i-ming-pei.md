@@ -1,6 +1,6 @@
 # 贝聿铭
 
-![](pics/i-ming-pei.jpg)
+![](../pics/i-ming-pei.jpg)
 
 - 姓名：贝聿铭
 - 性别：男

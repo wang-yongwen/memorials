@@ -1,6 +1,6 @@
 # 理查德·尼克松
 
-![](pics/richard-nixon.jpg)
+![](../pics/richard-nixon.jpg)
 
 - 姓名：理查德·尼克松
 - 性别：男

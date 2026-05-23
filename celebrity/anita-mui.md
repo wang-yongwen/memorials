@@ -1,6 +1,6 @@
 # 梅艳芳
 
-![](pics/anita-mui.jpg)
+![](../pics/anita-mui.jpg)
 
 - 姓名：梅艳芳
 - 性别：女

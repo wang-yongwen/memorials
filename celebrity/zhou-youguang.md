@@ -1,6 +1,6 @@
 # 周有光
 
-![](pics/zhou-youguang.jpg)
+![](../pics/zhou-youguang.jpg)
 
 - 姓名：周有光
 - 性别：男

@@ -1,6 +1,6 @@
 # 谷村新司
 
-![](pics/tanimura-shinji.jpg)
+![](../pics/tanimura-shinji.jpg)
 
 - 姓名：谷村新司
 - 性别：男

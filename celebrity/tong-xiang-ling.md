@@ -1,6 +1,6 @@
 # 童祥苓
 
-![](pics/tong-xiang-ling.jpg)
+![](../pics/tong-xiang-ling.jpg)
 
 - 姓名：童祥苓
 - 性别：男

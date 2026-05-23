@@ -1,6 +1,6 @@
 # 李文华
 
-![](pics/li-wenhua.jpg)
+![](../pics/li-wenhua.jpg)
 
 - 姓名：李文华
 - 性别：男

@@ -1,6 +1,6 @@
 # 黄旭华
 
-![](pics/huang-xu-hua.jpg)
+![](../pics/huang-xu-hua.jpg)
 
 - 姓名：黄旭华
 - 性别：男

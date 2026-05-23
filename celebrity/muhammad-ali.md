@@ -1,6 +1,6 @@
 # 穆罕默德·阿里
 
-![](pics/muhammad-ali.jpg)
+![](../pics/muhammad-ali.jpg)
 
 - 姓名：穆罕默德·阿里
 - 性别：男

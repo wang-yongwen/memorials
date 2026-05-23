@@ -1,6 +1,6 @@
 # 艾伦·里克曼
 
-![](pics/alan-rickman.jpg)
+![](../pics/alan-rickman.jpg)
 
 - 姓名：艾伦·里克曼
 - 性别：男

@@ -1,6 +1,6 @@
 # 乔羽
 
-![](pics/qiao-yu.jpg)
+![](../pics/qiao-yu.jpg)
 
 - 姓名：乔羽
 - 性别：男

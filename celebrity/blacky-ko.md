@@ -1,6 +1,6 @@
 # 柯受良
 
-![](pics/blacky-ko.jpg)
+![](../pics/blacky-ko.jpg)
 
 - 姓名：柯受良
 - 性别：男

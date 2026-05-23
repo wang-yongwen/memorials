@@ -1,6 +1,6 @@
 # 何鸿燊
 
-![](pics/stanley-ho.jpg)
+![](../pics/stanley-ho.jpg)
 
 - 姓名：何鸿燊
 - 性别：男

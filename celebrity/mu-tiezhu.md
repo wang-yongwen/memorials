@@ -1,6 +1,6 @@
 # 穆铁柱
 
-![](pics/mu-tiezhu.jpg)
+![](../pics/mu-tiezhu.jpg)
 
 - 姓名：穆铁柱
 - 性别：男

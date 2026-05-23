@@ -1,6 +1,6 @@
 # 李泽厚
 
-![](pics/li-ze-hou.jpg)
+![](../pics/li-ze-hou.jpg)
 
 - 姓名：李泽厚
 - 性别：男

@@ -1,6 +1,6 @@
 # 戴铁朗
 
-![](pics/dai-tielang.jpg)
+![](../pics/dai-tielang.jpg)
 
 - 姓名：戴铁朗
 - 性别：男

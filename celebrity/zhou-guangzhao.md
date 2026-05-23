@@ -1,6 +1,6 @@
 # 周光召
 
-![](pics/zhou-guangzhao.jpg)
+![](../pics/zhou-guangzhao.jpg)
 
 - 姓名：周光召
 - 性别：男

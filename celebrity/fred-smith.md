@@ -1,6 +1,6 @@
 # 弗雷德·史密斯（Frederick W. Smith）
 
-![](pics/fred-smith.jpg)
+![](../pics/fred-smith.jpg)
 
 - 姓名：弗雷德·史密斯（Frederick W. Smith）
 - 性别：男

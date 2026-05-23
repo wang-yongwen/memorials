@@ -1,6 +1,6 @@
 # Robbie Coltrane
 
-![](pics/robbie-coltrane.jpg)
+![](../pics/robbie-coltrane.jpg)
 
 - 姓名：Robbie Coltrane
 - 性别：男

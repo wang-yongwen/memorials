@@ -1,6 +1,6 @@
 # 张国荣
 
-![](pics/leslie-cheung.jpg)
+![](../pics/leslie-cheung.jpg)
 
 - 姓名：张国荣
 - 性别：男

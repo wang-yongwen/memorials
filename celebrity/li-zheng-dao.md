@@ -1,6 +1,6 @@
 # 李政道
 
-![](pics/li-zheng-dao.jpg)
+![](../pics/li-zheng-dao.jpg)
 
 - 姓名：李政道
 - 性别：男

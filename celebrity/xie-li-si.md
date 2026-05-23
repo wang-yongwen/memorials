@@ -1,6 +1,6 @@
 # 谢莉斯
 
-![](pics/xie-li-si.jpg)
+![](../pics/xie-li-si.jpg)
 
 - 姓名：谢莉斯
 - 性别：女

@@ -1,6 +1,6 @@
 # 臧健和
 
-![](pics/zang-jianhe.jpg)
+![](../pics/zang-jianhe.jpg)
 
 - 姓名：臧健和
 - 性别：女

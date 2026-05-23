@@ -1,6 +1,6 @@
 # 葛存壮
 
-![](pics/ge-cunzhuang.jpg)
+![](../pics/ge-cunzhuang.jpg)
 
 - 姓名：葛存壮
 - 性别：男

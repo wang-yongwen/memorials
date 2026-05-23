@@ -1,6 +1,6 @@
 # 厉以宁
 
-![](pics/li-yi-ning.jpg)
+![](../pics/li-yi-ning.jpg)
 
 - 姓名：厉以宁
 - 性别：男

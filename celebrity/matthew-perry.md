@@ -1,6 +1,6 @@
 # 马修·派瑞
 
-![](pics/matthew-perry.jpg)
+![](../pics/matthew-perry.jpg)
 
 - 姓名：马修·派瑞
 - 性别：男

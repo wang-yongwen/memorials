@@ -1,6 +1,6 @@
 # 任长霞
 
-![](pics/ren-changxia.jpg)
+![](../pics/ren-changxia.jpg)
 
 - 姓名：任长霞
 - 性别：女

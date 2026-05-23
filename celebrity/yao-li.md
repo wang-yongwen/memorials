@@ -1,6 +1,6 @@
 # 姚莉
 
-![](pics/yao-li.jpg)
+![](../pics/yao-li.jpg)
 
 - 姓名：姚莉
 - 性别：女

@@ -1,6 +1,6 @@
 # 黄永玉
 
-![](pics/huang-yong-yu.jpg)
+![](../pics/huang-yong-yu.jpg)
 
 - 姓名：黄永玉
 - 性别：男

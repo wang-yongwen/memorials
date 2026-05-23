@@ -1,6 +1,6 @@
 # 稻盛和夫
 
-![](pics/inamori-kazuo.jpg)
+![](../pics/inamori-kazuo.jpg)
 
 - 姓名：稻盛和夫
 - 性别：男

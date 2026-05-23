@@ -1,6 +1,6 @@
 # 黄大年
 
-![](pics/huang-danian.jpg)
+![](../pics/huang-danian.jpg)
 
 - 姓名：黄大年
 - 性别：男

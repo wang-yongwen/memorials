@@ -1,6 +1,6 @@
 # 袁阔成
 
-![](pics/yuan-kuocheng.jpg)
+![](../pics/yuan-kuocheng.jpg)
 
 - 姓名：袁阔成
 - 性别：男

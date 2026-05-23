@@ -1,6 +1,6 @@
 # 丁广泉
 
-![](pics/ding-guangquan.jpg)
+![](../pics/ding-guangquan.jpg)
 
 - 姓名：丁广泉
 - 性别：男

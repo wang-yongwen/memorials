@@ -1,6 +1,6 @@
 # 钱钟书
 
-![](pics/qian-zhongshu.jpg)
+![](../pics/qian-zhongshu.jpg)
 
 - 姓名：钱钟书
 - 性别：男

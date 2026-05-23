@@ -1,6 +1,6 @@
 # 王洛宾
 
-![](pics/wang-luobin.jpg)
+![](../pics/wang-luobin.jpg)
 
 - 姓名：王洛宾
 - 性别：男

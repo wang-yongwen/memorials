@@ -1,6 +1,6 @@
 # 杨少华
 
-![](pics/yang-shao-hua.jpg)
+![](../pics/yang-shao-hua.jpg)
 
 - 姓名：杨少华
 - 性别：男

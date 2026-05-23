@@ -1,6 +1,6 @@
 # 杨绛
 
-![](pics/yang-jiang.jpg)
+![](../pics/yang-jiang.jpg)
 
 - 姓名：杨绛
 - 性别：女

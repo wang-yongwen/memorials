@@ -1,6 +1,6 @@
 # 伊丽莎白·泰勒
 
-![](pics/elizabeth-taylor.jpg)
+![](../pics/elizabeth-taylor.jpg)
 
 - 姓名：伊丽莎白·泰勒
 - 性别：女

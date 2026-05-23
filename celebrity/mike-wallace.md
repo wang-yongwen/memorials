@@ -1,6 +1,6 @@
 # 迈克·华莱士
 
-![](pics/mike-wallace.jpg)
+![](../pics/mike-wallace.jpg)
 
 - 姓名：迈克·华莱士
 - 性别：男

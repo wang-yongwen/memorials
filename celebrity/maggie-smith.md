@@ -1,6 +1,6 @@
 # 玛吉·史密斯（Maggie Smith）
 
-![](pics/maggie-smith.jpg)
+![](../pics/maggie-smith.jpg)
 
 - 姓名：玛吉·史密斯（Maggie Smith）
 - 性别：女

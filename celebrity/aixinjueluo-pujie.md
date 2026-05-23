@@ -1,6 +1,6 @@
 # 爱新觉罗·溥杰
 
-![](pics/aixinjueluo-pujie.jpg)
+![](../pics/aixinjueluo-pujie.jpg)
 
 - 姓名：爱新觉罗·溥杰
 - 性别：男

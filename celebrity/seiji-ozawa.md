@@ -1,6 +1,6 @@
 # 小泽征尔（Seiji Ozawa）
 
-![](pics/seiji-ozawa.jpg)
+![](../pics/seiji-ozawa.jpg)
 
 - 姓名：小泽征尔（Seiji Ozawa）
 - 性别：男

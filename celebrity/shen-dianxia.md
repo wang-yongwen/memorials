@@ -1,6 +1,6 @@
 # 沈殿霞
 
-![](pics/shen-dianxia.jpg)
+![](../pics/shen-dianxia.jpg)
 
 - 姓名：沈殿霞
 - 性别：女

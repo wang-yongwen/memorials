@@ -1,6 +1,6 @@
 # 李咏
 
-![](pics/li-yong.jpg)
+![](../pics/li-yong.jpg)
 
 - 姓名：李咏
 - 性别：男

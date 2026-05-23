@@ -1,6 +1,6 @@
 # 单田芳
 
-![](pics/shan-tianfang.jpg)
+![](../pics/shan-tianfang.jpg)
 
 - 姓名：单田芳
 - 性别：男

@@ -1,6 +1,6 @@
 # 史蒂夫·乔布斯（Steve Jobs）
 
-![](pics/steve-jobs.jpg)
+![](../pics/steve-jobs.jpg)
 
 - 姓名：史蒂夫·乔布斯（Steve Jobs）
 - 性别：男

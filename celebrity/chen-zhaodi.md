@@ -1,6 +1,6 @@
 # 陈招娣
 
-![](pics/chen-zhaodi.jpg)
+![](../pics/chen-zhaodi.jpg)
 
 - 姓名：陈招娣
 - 性别：女

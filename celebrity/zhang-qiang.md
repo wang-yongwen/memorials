@@ -1,6 +1,6 @@
 # 张强
 
-![](pics/zhang-qiang.jpg)
+![](../pics/zhang-qiang.jpg)
 
 - 姓名：张强
 - 性别：男

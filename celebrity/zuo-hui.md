@@ -1,6 +1,6 @@
 # 左晖
 
-![](pics/zuo-hui.jpg)
+![](../pics/zuo-hui.jpg)
 
 - 姓名：左晖
 - 性别：男

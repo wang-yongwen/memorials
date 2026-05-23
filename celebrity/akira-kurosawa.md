@@ -1,6 +1,6 @@
 # 黑泽明
 
-![](pics/akira-kurosawa.jpg)
+![](../pics/akira-kurosawa.jpg)
 
 - 姓名：黑泽明
 - 性别：男

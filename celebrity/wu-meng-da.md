@@ -1,6 +1,6 @@
 # 吴孟达
 
-![](pics/wu-meng-da.jpg)
+![](../pics/wu-meng-da.jpg)
 
 - 姓名：吴孟达
 - 性别：男

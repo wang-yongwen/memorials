@@ -1,6 +1,6 @@
 # 史蒂芬·霍金
 
-![](pics/stephen-hawking.jpg)
+![](../pics/stephen-hawking.jpg)
 
 - 姓名：史蒂芬·霍金
 - 性别：男

@@ -1,6 +1,6 @@
 # 曼莫汉·辛格（Manmohan Singh）
 
-![](pics/manmohan-singh.jpg)
+![](../pics/manmohan-singh.jpg)
 
 - 姓名：曼莫汉·辛格（Manmohan Singh）
 - 性别：男

@@ -1,6 +1,6 @@
 # 布仁巴雅尔
 
-![](pics/buren-bayir.jpg)
+![](../pics/buren-bayir.jpg)
 
 - 姓名：布仁巴雅尔
 - 性别：男

@@ -1,6 +1,6 @@
 # 辛丰年
 
-![](pics/xin-fengnian.jpg)
+![](../pics/xin-fengnian.jpg)
 
 - 姓名：辛丰年
 - 性别：男

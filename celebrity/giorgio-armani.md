@@ -1,6 +1,6 @@
 # 乔治·阿玛尼（Giorgio Armani）
 
-![](pics/giorgio-armani.jpg)
+![](../pics/giorgio-armani.jpg)
 
 - 姓名：乔治·阿玛尼（Giorgio Armani）
 - 性别：男

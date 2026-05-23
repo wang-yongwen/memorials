@@ -1,6 +1,6 @@
 # 王铁成
 
-![](pics/wang-tie-cheng.jpg)
+![](../pics/wang-tie-cheng.jpg)
 
 - 姓名：王铁成
 - 性别：男

@@ -1,6 +1,6 @@
 # 菲德尔·卡斯特罗
 
-![](pics/fidel-castro.jpg)
+![](../pics/fidel-castro.jpg)
 
 - 姓名：菲德尔·卡斯特罗
 - 性别：男

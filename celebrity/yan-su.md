@@ -1,6 +1,6 @@
 # 阎肃
 
-![](pics/yan-su.jpg)
+![](../pics/yan-su.jpg)
 
 - 姓名：阎肃
 - 性别：男

@@ -1,6 +1,6 @@
 # 刘家昌
 
-![](pics/liu-jia-chang.jpg)
+![](../pics/liu-jia-chang.jpg)
 
 - 姓名：刘家昌
 - 性别：男

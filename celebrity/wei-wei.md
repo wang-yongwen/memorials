@@ -1,6 +1,6 @@
 # 魏巍
 
-![](pics/wei-wei.jpg)
+![](../pics/wei-wei.jpg)
 
 - 姓名：魏巍
 - 性别：男

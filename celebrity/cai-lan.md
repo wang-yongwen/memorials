@@ -1,6 +1,6 @@
 # 蔡澜
 
-![](pics/cai-lan.jpg)
+![](../pics/cai-lan.jpg)
 
 - 姓名：蔡澜
 - 性别：男

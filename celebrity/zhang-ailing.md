@@ -1,6 +1,6 @@
 # 张爱玲
 
-![](pics/zhang-ailing.jpg)
+![](../pics/zhang-ailing.jpg)
 
 - 姓名：张爱玲
 - 性别：女

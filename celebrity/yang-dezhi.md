@@ -1,6 +1,6 @@
 # 杨得志
 
-![](pics/yang-dezhi.jpg)
+![](../pics/yang-dezhi.jpg)
 
 - 姓名：杨得志
 - 性别：男

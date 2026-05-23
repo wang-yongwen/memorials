@@ -1,6 +1,6 @@
 # 沈庆
 
-![](pics/shen-qing.jpg)
+![](../pics/shen-qing.jpg)
 
 - 姓名：沈庆
 - 性别：男

@@ -1,6 +1,6 @@
 # 李靖飞
 
-![](pics/li-jing-fei.jpg)
+![](../pics/li-jing-fei.jpg)
 
 - 姓名：李靖飞
 - 性别：男

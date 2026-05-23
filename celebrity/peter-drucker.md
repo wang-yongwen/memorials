@@ -1,6 +1,6 @@
 # 彼得·德鲁克
 
-![](pics/peter-drucker.jpg)
+![](../pics/peter-drucker.jpg)
 
 - 姓名：彼得·德鲁克
 - 性别：男

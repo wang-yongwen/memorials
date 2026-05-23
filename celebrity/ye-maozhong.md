@@ -1,6 +1,6 @@
 # 叶茂中
 
-![](pics/ye-maozhong.jpg)
+![](../pics/ye-maozhong.jpg)
 
 - 姓名：叶茂中
 - 性别：男

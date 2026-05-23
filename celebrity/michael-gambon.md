@@ -1,6 +1,6 @@
 # 迈克尔·甘本
 
-![](pics/michael-gambon.jpg)
+![](../pics/michael-gambon.jpg)
 
 - 姓名：迈克尔·甘本
 - 性别：男

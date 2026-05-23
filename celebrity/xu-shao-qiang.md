@@ -1,6 +1,6 @@
 # 徐少强
 
-![](pics/xu-shao-qiang.jpg)
+![](../pics/xu-shao-qiang.jpg)
 
 - 姓名：徐少强
 - 性别：男

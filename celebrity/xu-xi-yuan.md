@@ -1,6 +1,6 @@
 # 徐熙媛（大S）
 
-![](pics/xu-xi-yuan.jpg)
+![](../pics/xu-xi-yuan.jpg)
 
 - 姓名：徐熙媛（大S）
 - 性别：女

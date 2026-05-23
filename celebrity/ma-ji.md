@@ -1,6 +1,6 @@
 # 马季
 
-![](pics/ma-ji.jpg)
+![](../pics/ma-ji.jpg)
 
 - 姓名：马季
 - 性别：男

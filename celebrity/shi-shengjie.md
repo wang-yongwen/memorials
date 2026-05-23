@@ -1,6 +1,6 @@
 # 师胜杰
 
-![](pics/shi-shengjie.jpg)
+![](../pics/shi-shengjie.jpg)
 
 - 姓名：师胜杰
 - 性别：男

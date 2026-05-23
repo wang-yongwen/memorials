@@ -1,6 +1,6 @@
 # 戈登·贝尔
 
-![](pics/gordon-bell.jpg)
+![](../pics/gordon-bell.jpg)
 
 - 姓名：戈登·贝尔
 - 性别：男

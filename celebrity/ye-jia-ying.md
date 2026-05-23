@@ -1,6 +1,6 @@
 # 叶嘉莹
 
-![](pics/ye-jia-ying.jpg)
+![](../pics/ye-jia-ying.jpg)
 
 - 姓名：叶嘉莹
 - 性别：女

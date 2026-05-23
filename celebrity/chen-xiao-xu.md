@@ -1,6 +1,6 @@
 # 陈晓旭
 
-![](pics/chen-xiao-xu.jpg)
+![](../pics/chen-xiao-xu.jpg)
 
 - 姓名：陈晓旭
 - 性别：女

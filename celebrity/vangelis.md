@@ -1,6 +1,6 @@
 # Vangelis（范吉利斯）
 
-![](pics/vangelis.jpg)
+![](../pics/vangelis.jpg)
 
 - 姓名：Vangelis（范吉利斯）
 - 性别：男

@@ -1,6 +1,6 @@
 # 肖恩·康纳利
 
-![](pics/sean-connery.jpg)
+![](../pics/sean-connery.jpg)
 
 - 姓名：肖恩·康纳利
 - 性别：男

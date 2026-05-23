@@ -1,6 +1,6 @@
 # 褚时健
 
-![](pics/chu-shijian.jpg)
+![](../pics/chu-shijian.jpg)
 
 - 姓名：褚时健
 - 性别：男

@@ -1,6 +1,6 @@
 # 赵朴初
 
-![](pics/zhao-puchu.jpg)
+![](../pics/zhao-puchu.jpg)
 
 - 姓名：赵朴初
 - 性别：男

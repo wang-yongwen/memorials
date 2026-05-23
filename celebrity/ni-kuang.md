@@ -1,6 +1,6 @@
 # 倪匡
 
-![](pics/ni-kuang.jpg)
+![](../pics/ni-kuang.jpg)
 
 - 姓名：倪匡
 - 性别：男

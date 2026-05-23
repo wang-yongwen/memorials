@@ -1,6 +1,6 @@
 # 赵丽蓉
 
-![](pics/zhao-lirong.jpg)
+![](../pics/zhao-lirong.jpg)
 
 - 姓名：赵丽蓉
 - 性别：女

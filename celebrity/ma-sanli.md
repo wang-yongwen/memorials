@@ -1,6 +1,6 @@
 # 马三立
 
-![](pics/ma-sanli.jpg)
+![](../pics/ma-sanli.jpg)
 
 - 姓名：马三立
 - 性别：男

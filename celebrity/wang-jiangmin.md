@@ -1,6 +1,6 @@
 # 王江民
 
-![](pics/wang-jiangmin.jpg)
+![](../pics/wang-jiangmin.jpg)
 
 - 姓名：王江民
 - 性别：男

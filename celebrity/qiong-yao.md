@@ -1,6 +1,6 @@
 # 琼瑶
 
-![](pics/qiong-yao.jpg)
+![](../pics/qiong-yao.jpg)
 
 - 姓名：琼瑶
 - 性别：女

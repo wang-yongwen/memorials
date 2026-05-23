@@ -1,6 +1,6 @@
 # 张学良
 
-![](pics/zhang-xueliang.jpg)
+![](../pics/zhang-xueliang.jpg)
 
 - 姓名：张学良
 - 性别：男

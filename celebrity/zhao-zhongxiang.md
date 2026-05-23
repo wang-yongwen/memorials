@@ -1,6 +1,6 @@
 # 赵忠祥
 
-![](pics/zhao-zhongxiang.jpg)
+![](../pics/zhao-zhongxiang.jpg)
 
 - 姓名：赵忠祥
 - 性别：男

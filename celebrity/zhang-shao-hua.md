@@ -1,6 +1,6 @@
 # 张少华
 
-![](pics/zhang-shao-hua.jpg)
+![](../pics/zhang-shao-hua.jpg)
 
 - 姓名：张少华
 - 性别：女

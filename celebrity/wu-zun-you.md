@@ -1,6 +1,6 @@
 # 吴尊友
 
-![](pics/wu-zun-you.jpg)
+![](../pics/wu-zun-you.jpg)
 
 - 姓名：吴尊友
 - 性别：男

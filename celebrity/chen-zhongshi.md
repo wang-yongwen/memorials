@@ -1,6 +1,6 @@
 # 陈忠实
 
-![](pics/chen-zhongshi.jpg)
+![](../pics/chen-zhongshi.jpg)
 
 - 姓名：陈忠实
 - 性别：男

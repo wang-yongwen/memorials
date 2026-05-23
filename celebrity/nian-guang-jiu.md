@@ -1,6 +1,6 @@
 # 年广久
 
-![](pics/nian-guang-jiu.jpg)
+![](../pics/nian-guang-jiu.jpg)
 
 - 姓名：年广久
 - 性别：男

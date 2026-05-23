@@ -1,6 +1,6 @@
 # 鸟山明
 
-![](pics/toriyama-akira.jpg)
+![](../pics/toriyama-akira.jpg)
 
 - 姓名：鸟山明
 - 性别：男

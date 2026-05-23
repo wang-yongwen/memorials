@@ -1,6 +1,6 @@
 # 叶永烈
 
-![](pics/ye-yonglie.jpg)
+![](../pics/ye-yonglie.jpg)
 
 - 姓名：叶永烈
 - 性别：男

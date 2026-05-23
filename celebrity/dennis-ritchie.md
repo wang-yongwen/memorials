@@ -1,6 +1,6 @@
 # 丹尼斯·里奇
 
-![](pics/dennis-ritchie.jpg)
+![](../pics/dennis-ritchie.jpg)
 
 - 姓名：丹尼斯·里奇
 - 性别：男

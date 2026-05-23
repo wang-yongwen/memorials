@@ -1,6 +1,6 @@
 # 迭戈·马拉多纳
 
-![](pics/diego-maradona.jpg)
+![](../pics/diego-maradona.jpg)
 
 - 姓名：迭戈·马拉多纳
 - 性别：男

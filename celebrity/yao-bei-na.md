@@ -1,6 +1,6 @@
 # 姚贝娜
 
-![](pics/yao-bei-na.jpg)
+![](../pics/yao-bei-na.jpg)
 
 - 姓名：姚贝娜
 - 性别：女

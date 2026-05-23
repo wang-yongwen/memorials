@@ -1,6 +1,6 @@
 # 迈克尔·杰克逊
 
-![](pics/michael-jackson.jpg)
+![](../pics/michael-jackson.jpg)
 
 - 姓名：迈克尔·杰克逊
 - 性别：男

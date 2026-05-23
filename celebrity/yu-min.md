@@ -1,6 +1,6 @@
 # 于敏
 
-![](pics/yu-min.jpg)
+![](../pics/yu-min.jpg)
 
 - 姓名：于敏
 - 性别：男

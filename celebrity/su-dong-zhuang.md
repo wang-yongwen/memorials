@@ -1,6 +1,6 @@
 # 苏东庄
 
-![](pics/su-dong-zhuang.jpg)
+![](../pics/su-dong-zhuang.jpg)
 
 - 姓名：苏东庄
 - 性别：男

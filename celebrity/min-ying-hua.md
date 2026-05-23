@@ -1,6 +1,6 @@
 # 闵应骅
 
-![](pics/min-ying-hua.jpg)
+![](../pics/min-ying-hua.jpg)
 
 - 姓名：闵应骅
 - 性别：男

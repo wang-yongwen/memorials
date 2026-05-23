@@ -1,6 +1,6 @@
 # 沈绪榜
 
-![](pics/shen-xu-bang.jpg)
+![](../pics/shen-xu-bang.jpg)
 
 - 姓名：沈绪榜
 - 性别：男

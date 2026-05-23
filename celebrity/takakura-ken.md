@@ -1,6 +1,6 @@
 # 高仓健
 
-![](pics/takakura-ken.jpg)
+![](../pics/takakura-ken.jpg)
 
 - 姓名：高仓健
 - 性别：男

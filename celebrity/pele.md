@@ -1,6 +1,6 @@
 # 贝利（Pelé）
 
-![](pics/pele.jpg)
+![](../pics/pele.jpg)
 
 - 姓名：贝利（Pelé）
 - 性别：男

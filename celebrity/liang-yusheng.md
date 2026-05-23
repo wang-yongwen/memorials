@@ -1,6 +1,6 @@
 # 梁羽生
 
-![](pics/liang-yusheng.jpg)
+![](../pics/liang-yusheng.jpg)
 
 - 姓名：梁羽生
 - 性别：男

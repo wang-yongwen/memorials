@@ -1,6 +1,6 @@
 # 加西亚·马尔克斯
 
-![](pics/garcia-marquez.jpg)
+![](../pics/garcia-marquez.jpg)
 
 - 姓名：加西亚·马尔克斯
 - 性别：男

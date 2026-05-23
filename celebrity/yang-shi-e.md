@@ -1,6 +1,6 @@
 # 杨士莪
 
-![](pics/yang-shi-e.jpg)
+![](../pics/yang-shi-e.jpg)
 
 - 姓名：杨士莪
 - 性别：男

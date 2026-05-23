@@ -1,6 +1,6 @@
 # 古月
 
-![](pics/gu-yue.jpg)
+![](../pics/gu-yue.jpg)
 
 - 姓名：古月
 - 性别：男

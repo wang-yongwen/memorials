@@ -1,6 +1,6 @@
 # 宗庆后
 
-![](pics/zong-qing-hou.jpg)
+![](../pics/zong-qing-hou.jpg)
 
 - 姓名：宗庆后
 - 性别：男

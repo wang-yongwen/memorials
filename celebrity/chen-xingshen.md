@@ -1,6 +1,6 @@
 # 陈省身
 
-![](pics/chen-xingshen.jpg)
+![](../pics/chen-xingshen.jpg)
 
 - 姓名：陈省身
 - 性别：男

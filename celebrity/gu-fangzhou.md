@@ -1,6 +1,6 @@
 # 顾方舟
 
-![](pics/gu-fangzhou.jpg)
+![](../pics/gu-fangzhou.jpg)
 
 - 姓名：顾方舟
 - 性别：男

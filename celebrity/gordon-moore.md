@@ -1,6 +1,6 @@
 # 戈登·摩尔（Gordon Moore）
 
-![](pics/gordon-moore.jpg)
+![](../pics/gordon-moore.jpg)
 
 - 姓名：戈登·摩尔（Gordon Moore）
 - 性别：男

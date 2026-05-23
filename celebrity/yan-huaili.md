@@ -1,6 +1,6 @@
 # 闫怀礼
 
-![](pics/yan-huaili.jpg)
+![](../pics/yan-huaili.jpg)
 
 - 姓名：闫怀礼
 - 性别：男

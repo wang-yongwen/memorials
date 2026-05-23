@@ -1,6 +1,6 @@
 # 斯坦·李
 
-![](pics/stan-lee.jpg)
+![](../pics/stan-lee.jpg)
 
 - 姓名：斯坦·李
 - 性别：男

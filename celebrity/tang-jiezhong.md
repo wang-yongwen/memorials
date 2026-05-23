@@ -1,6 +1,6 @@
 # 唐杰忠
 
-![](pics/tang-jiezhong.jpg)
+![](../pics/tang-jiezhong.jpg)
 
 - 姓名：唐杰忠
 - 性别：男

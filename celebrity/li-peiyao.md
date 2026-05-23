@@ -1,6 +1,6 @@
 # 李沛瑶
 
-![](pics/li-peiyao.jpg)
+![](../pics/li-peiyao.jpg)
 
 - 姓名：李沛瑶
 - 性别：男

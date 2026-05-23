@@ -1,6 +1,6 @@
 # 邓丽君
 
-![](pics/deng-lijun.jpg)
+![](../pics/deng-lijun.jpg)
 
 - 姓名：邓丽君
 - 性别：女

@@ -1,6 +1,6 @@
 # 陈志远
 
-![](pics/chen-zhiyuan.jpg)
+![](../pics/chen-zhiyuan.jpg)
 
 - 姓名：陈志远
 - 性别：男

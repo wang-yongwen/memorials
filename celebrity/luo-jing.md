@@ -1,6 +1,6 @@
 # 罗京
 
-![](pics/luo-jing.jpg)
+![](../pics/luo-jing.jpg)
 
 - 姓名：罗京
 - 性别：男

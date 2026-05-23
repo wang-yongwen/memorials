@@ -1,6 +1,6 @@
 # 贺绿汀
 
-![](pics/he-luting.jpg)
+![](../pics/he-luting.jpg)
 
 - 姓名：贺绿汀
 - 性别：男

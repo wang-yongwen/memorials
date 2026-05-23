@@ -1,6 +1,6 @@
 # 袁隆平
 
-![](pics/yuan-long-ping.jpg)
+![](../pics/yuan-long-ping.jpg)
 
 - 姓名：袁隆平
 - 性别：男

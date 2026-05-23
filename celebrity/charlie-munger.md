@@ -1,6 +1,6 @@
 # 查理·芒格
 
-![](pics/charlie-munger.jpg)
+![](../pics/charlie-munger.jpg)
 
 - 姓名：查理·芒格
 - 性别：男

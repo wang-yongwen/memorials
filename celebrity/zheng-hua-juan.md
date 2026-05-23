@@ -1,6 +1,6 @@
 # 郑华娟
 
-![](pics/zheng-hua-juan.jpg)
+![](../pics/zheng-hua-juan.jpg)
 
 - 姓名：郑华娟
 - 性别：女

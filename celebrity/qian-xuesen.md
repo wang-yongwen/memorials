@@ -1,6 +1,6 @@
 # 钱学森
 
-![](pics/qian-xuesen.jpg)
+![](../pics/qian-xuesen.jpg)
 
 - 姓名：钱学森
 - 性别：男

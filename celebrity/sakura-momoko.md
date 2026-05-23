@@ -1,6 +1,6 @@
 # 樱桃子
 
-![](pics/sakura-momoko.jpg)
+![](../pics/sakura-momoko.jpg)
 
 - 姓名：樱桃子
 - 性别：女

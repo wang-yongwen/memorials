@@ -1,6 +1,6 @@
 # 皮尔·卡丹
 
-![](pics/pierre-cardin.jpg)
+![](../pics/pierre-cardin.jpg)
 
 - 姓名：皮尔·卡丹
 - 性别：男

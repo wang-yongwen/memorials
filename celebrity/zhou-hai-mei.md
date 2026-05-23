@@ -1,6 +1,6 @@
 # 周海媚
 
-![](pics/zhou-hai-mei.jpg)
+![](../pics/zhou-hai-mei.jpg)
 
 - 姓名：周海媚
 - 性别：女

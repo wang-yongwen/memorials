@@ -1,6 +1,6 @@
 # 苏步青
 
-![](pics/su-buqing.jpg)
+![](../pics/su-buqing.jpg)
 
 - 姓名：苏步青
 - 性别：男

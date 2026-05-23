@@ -1,6 +1,6 @@
 # 玛丽·弗雷德里克森
 
-![](pics/marie-fredriksson.jpg)
+![](../pics/marie-fredriksson.jpg)
 
 - 姓名：玛丽·弗雷德里克森
 - 性别：女

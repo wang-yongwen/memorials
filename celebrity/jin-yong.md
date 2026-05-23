@@ -1,6 +1,6 @@
 # 金庸
 
-![](pics/jin-yong.jpg)
+![](../pics/jin-yong.jpg)
 
 - 姓名：金庸
 - 性别：男

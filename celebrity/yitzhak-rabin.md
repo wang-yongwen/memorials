@@ -1,6 +1,6 @@
 # 伊扎克·拉宾
 
-![](pics/yitzhak-rabin.jpg)
+![](../pics/yitzhak-rabin.jpg)
 
 - 姓名：伊扎克·拉宾
 - 性别：男

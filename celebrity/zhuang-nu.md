@@ -1,6 +1,6 @@
 # 庄奴
 
-![](pics/zhuang-nu.jpg)
+![](../pics/zhuang-nu.jpg)
 
 - 姓名：庄奴
 - 性别：男

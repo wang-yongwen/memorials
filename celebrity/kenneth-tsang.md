@@ -1,6 +1,6 @@
 # 曾江
 
-![](pics/kenneth-tsang.jpg)
+![](../pics/kenneth-tsang.jpg)
 
 - 姓名：曾江
 - 性别：男

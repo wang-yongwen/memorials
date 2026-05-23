@@ -1,6 +1,6 @@
 # 笑林
 
-![](pics/xiao-lin.jpg)
+![](../pics/xiao-lin.jpg)
 
 - 姓名：笑林
 - 性别：男

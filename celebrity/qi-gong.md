@@ -1,6 +1,6 @@
 # 启功
 
-![](pics/qi-gong.jpg)
+![](../pics/qi-gong.jpg)
 
 - 姓名：启功
 - 性别：男

@@ -1,6 +1,6 @@
 # 黄仁宇
 
-![](pics/huang-renyu.jpg)
+![](../pics/huang-renyu.jpg)
 
 - 姓名：黄仁宇
 - 性别：男

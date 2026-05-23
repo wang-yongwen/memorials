@@ -1,6 +1,6 @@
 # 王小波
 
-![](pics/wang-xiaobo.jpg)
+![](../pics/wang-xiaobo.jpg)
 
 - 姓名：王小波
 - 性别：男

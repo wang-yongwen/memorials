@@ -1,6 +1,6 @@
 # 石班瑜
 
-![](pics/shi-ban-yu.jpg)
+![](../pics/shi-ban-yu.jpg)
 
 - 姓名：石班瑜
 - 性别：男

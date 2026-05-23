@@ -1,6 +1,6 @@
 # 程开甲
 
-![](pics/cheng-kaijia.jpg)
+![](../pics/cheng-kaijia.jpg)
 
 - 姓名：程开甲
 - 性别：男

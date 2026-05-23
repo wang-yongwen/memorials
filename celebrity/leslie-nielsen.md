@@ -1,6 +1,6 @@
 # 莱斯利·尼尔森
 
-![](pics/leslie-nielsen.jpg)
+![](../pics/leslie-nielsen.jpg)
 
 - 姓名：莱斯利·尼尔森
 - 性别：男

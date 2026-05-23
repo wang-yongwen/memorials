@@ -1,6 +1,6 @@
 # 李兆基
 
-![](pics/li-zhao-ji.jpg)
+![](../pics/li-zhao-ji.jpg)
 
 - 姓名：李兆基
 - 性别：男

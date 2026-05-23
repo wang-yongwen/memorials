@@ -1,6 +1,6 @@
 # 李玟（CoCo Lee）
 
-![](pics/li-min.jpg)
+![](../pics/li-min.jpg)
 
 - 姓名：李玟（CoCo Lee）
 - 性别：女

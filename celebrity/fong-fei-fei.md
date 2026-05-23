@@ -1,6 +1,6 @@
 # 凤飞飞
 
-![](pics/fong-fei-fei.jpg)
+![](../pics/fong-fei-fei.jpg)
 
 - 姓名：凤飞飞
 - 性别：女

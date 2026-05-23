@@ -1,6 +1,6 @@
 # 傅聪
 
-![](pics/fou-tsong.jpg)
+![](../pics/fou-tsong.jpg)
 
 - 姓名：傅聪
 - 性别：男

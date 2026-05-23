@@ -1,6 +1,6 @@
 # 李敖
 
-![](pics/li-ao.jpg)
+![](../pics/li-ao.jpg)
 
 - 姓名：李敖
 - 性别：男

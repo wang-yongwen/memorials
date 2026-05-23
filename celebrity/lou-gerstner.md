@@ -1,6 +1,6 @@
 # 郭士纳
 
-![](pics/lou-gerstner.jpg)
+![](../pics/lou-gerstner.jpg)
 
 - 姓名：郭士纳
 - 性别：男

@@ -1,6 +1,6 @@
 # 俞逊发
 
-![](pics/yu-xunfa.jpg)
+![](../pics/yu-xunfa.jpg)
 
 - 姓名：俞逊发
 - 性别：男

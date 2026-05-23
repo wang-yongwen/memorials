@@ -1,6 +1,6 @@
 # 黄易
 
-![](pics/huang-yi.jpg)
+![](../pics/huang-yi.jpg)
 
 - 姓名：黄易
 - 性别：男

@@ -1,6 +1,6 @@
 # 张震
 
-![](pics/zhang-zhen.jpg)
+![](../pics/zhang-zhen.jpg)
 
 - 姓名：张震
 - 性别：男

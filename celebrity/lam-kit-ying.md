@@ -1,6 +1,6 @@
 # 蓝洁瑛
 
-![](pics/lam-kit-ying.jpg)
+![](../pics/lam-kit-ying.jpg)
 
 - 姓名：蓝洁瑛
 - 性别：女

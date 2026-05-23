@@ -1,6 +1,6 @@
 # 高秀敏
 
-![](pics/gao-xiumin.jpg)
+![](../pics/gao-xiumin.jpg)
 
 - 姓名：高秀敏
 - 性别：女

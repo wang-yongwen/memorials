@@ -1,6 +1,6 @@
 # 盛中国
 
-![](pics/sheng-zhong-guo.jpg)
+![](../pics/sheng-zhong-guo.jpg)
 
 - 姓名：盛中国
 - 性别：男

@@ -1,6 +1,6 @@
 # 徐迟
 
-![](pics/xu-chi.jpg)
+![](../pics/xu-chi.jpg)
 
 - 姓名：徐迟
 - 性别：男

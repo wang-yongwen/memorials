@@ -1,6 +1,6 @@
 # 马识途
 
-![](pics/ma-shi-tu.jpg)
+![](../pics/ma-shi-tu.jpg)
 
 - 姓名：马识途
 - 性别：男

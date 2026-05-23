@@ -1,6 +1,6 @@
 # 陈涌泉
 
-![](pics/chen-yong-quan.jpg)
+![](../pics/chen-yong-quan.jpg)
 
 - 姓名：陈涌泉
 - 性别：男

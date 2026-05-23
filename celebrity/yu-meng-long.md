@@ -1,6 +1,6 @@
 # 于朦胧
 
-![](pics/yu-meng-long.jpg)
+![](../pics/yu-meng-long.jpg)
 
 - 姓名：于朦胧
 - 性别：男

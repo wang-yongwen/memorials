@@ -1,6 +1,6 @@
 # 陈彼得
 
-![](pics/chen-bide.jpg)
+![](../pics/chen-bide.jpg)
 
 - 姓名：陈彼得
 - 性别：男

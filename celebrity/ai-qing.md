@@ -1,6 +1,6 @@
 # 艾青
 
-![](pics/ai-qing.jpg)
+![](../pics/ai-qing.jpg)
 
 - 姓名：艾青
 - 性别：男

@@ -1,6 +1,6 @@
 # J.D.塞林格
 
-![](pics/jd-salinger.jpg)
+![](../pics/jd-salinger.jpg)
 
 - 姓名：J.D.塞林格
 - 性别：男

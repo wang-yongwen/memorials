@@ -1,6 +1,6 @@
 # 伊丽莎白二世
 
-![](pics/queen-elizabeth.jpg)
+![](../pics/queen-elizabeth.jpg)
 
 - 姓名：伊丽莎白二世
 - 性别：女

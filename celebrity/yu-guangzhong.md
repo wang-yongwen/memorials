@@ -1,6 +1,6 @@
 # 余光中
 
-![](pics/yu-guangzhong.jpg)
+![](../pics/yu-guangzhong.jpg)
 
 - 姓名：余光中
 - 性别：男

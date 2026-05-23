@@ -1,6 +1,6 @@
 # 铁牛
 
-![](pics/tie-niu.jpg)
+![](../pics/tie-niu.jpg)
 
 - 姓名：铁牛
 - 性别：男

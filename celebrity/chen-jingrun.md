@@ -1,6 +1,6 @@
 # 陈景润
 
-![](pics/chen-jingrun.jpg)
+![](../pics/chen-jingrun.jpg)
 
 - 姓名：陈景润
 - 性别：男

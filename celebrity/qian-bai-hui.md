@@ -1,6 +1,6 @@
 # 千百惠
 
-![](pics/qian-bai-hui.jpg)
+![](../pics/qian-bai-hui.jpg)
 
 - 姓名：千百惠
 - 性别：女

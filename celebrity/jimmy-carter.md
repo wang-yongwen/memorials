@@ -1,6 +1,6 @@
 # 吉米·卡特（Jimmy Carter）
 
-![](pics/jimmy-carter.jpg)
+![](../pics/jimmy-carter.jpg)
 
 - 姓名：吉米·卡特（Jimmy Carter）
 - 性别：男

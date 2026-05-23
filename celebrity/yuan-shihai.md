@@ -1,6 +1,6 @@
 # 袁世海
 
-![](pics/yuan-shihai.jpg)
+![](../pics/yuan-shihai.jpg)
 
 - 姓名：袁世海
 - 性别：男

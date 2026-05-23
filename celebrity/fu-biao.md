@@ -1,6 +1,6 @@
 # 傅彪
 
-![](pics/fu-biao.jpg)
+![](../pics/fu-biao.jpg)
 
 - 姓名：傅彪
 - 性别：男

@@ -1,6 +1,6 @@
 # 杨立德
 
-![](pics/yang-li-de.jpg)
+![](../pics/yang-li-de.jpg)
 
 - 姓名：杨立德
 - 性别：男

@@ -1,6 +1,6 @@
 # 李婉芬
 
-![](pics/li-wanfen.jpg)
+![](../pics/li-wanfen.jpg)
 
 - 姓名：李婉芬
 - 性别：女

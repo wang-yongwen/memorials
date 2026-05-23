@@ -1,6 +1,6 @@
 # 冰心
 
-![](pics/bin-xin.jpg)
+![](../pics/bin-xin.jpg)
 
 - 姓名：冰心
 - 性别：女

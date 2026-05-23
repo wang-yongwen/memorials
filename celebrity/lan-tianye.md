@@ -1,6 +1,6 @@
 # 蓝天野
 
-![](pics/lan-tianye.jpg)
+![](../pics/lan-tianye.jpg)
 
 - 姓名：蓝天野
 - 性别：男

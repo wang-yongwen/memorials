@@ -1,6 +1,6 @@
 # 洛桑·尼玛
 
-![](pics/luosang-nyima.jpg)
+![](../pics/luosang-nyima.jpg)
 
 - 姓名：洛桑·尼玛
 - 性别：男

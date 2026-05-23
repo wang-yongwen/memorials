@@ -1,6 +1,6 @@
 # 谢晋
 
-![](pics/xie-jin.jpg)
+![](../pics/xie-jin.jpg)
 
 - 姓名：谢晋
 - 性别：男

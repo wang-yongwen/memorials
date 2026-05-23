@@ -1,6 +1,6 @@
 # 杨振宁
 
-![](pics/yang-zhen-ning.jpg)
+![](../pics/yang-zhen-ning.jpg)
 
 - 姓名：杨振宁
 - 性别：男

@@ -1,6 +1,6 @@
 # 德德玛
 
-![](pics/de-de-ma.jpg)
+![](../pics/de-de-ma.jpg)
 
 - 姓名：德德玛
 - 性别：女

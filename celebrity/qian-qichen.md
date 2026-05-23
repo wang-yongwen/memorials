@@ -1,6 +1,6 @@
 # 钱其琛
 
-![](pics/qian-qichen.jpg)
+![](../pics/qian-qichen.jpg)
 
 - 姓名：钱其琛
 - 性别：男

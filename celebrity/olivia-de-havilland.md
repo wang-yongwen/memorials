@@ -1,6 +1,6 @@
 # 奥利维亚·德哈维兰
 
-![](pics/olivia-de-havilland.jpg)
+![](../pics/olivia-de-havilland.jpg)
 
 - 姓名：奥利维亚·德哈维兰
 - 性别：女

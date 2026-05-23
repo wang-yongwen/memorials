@@ -1,6 +1,6 @@
 # 邓小平
 
-![](pics/deng-xiao-ping.jpg)
+![](../pics/deng-xiao-ping.jpg)
 
 - 姓名：邓小平
 - 性别：男

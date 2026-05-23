@@ -1,6 +1,6 @@
 # 郑佩佩
 
-![](pics/zheng-pei-pei.jpg)
+![](../pics/zheng-pei-pei.jpg)
 
 - 姓名：郑佩佩
 - 性别：女

@@ -1,6 +1,6 @@
 # 戴安娜王妃
 
-![](pics/diana-princess.jpg)
+![](../pics/diana-princess.jpg)
 
 - 姓名：戴安娜王妃
 - 性别：女

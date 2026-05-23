@@ -1,6 +1,6 @@
 # 何晴
 
-![](pics/he-qing.jpg)
+![](../pics/he-qing.jpg)
 
 - 姓名：何晴
 - 性别：女

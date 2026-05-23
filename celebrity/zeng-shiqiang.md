@@ -1,6 +1,6 @@
 # 曾仕强
 
-![](pics/zeng-shiqiang.jpg)
+![](../pics/zeng-shiqiang.jpg)
 
 - 姓名：曾仕强
 - 性别：男

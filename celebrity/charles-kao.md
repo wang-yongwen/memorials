@@ -1,6 +1,6 @@
 # 高锟
 
-![](pics/charles-kao.jpg)
+![](../pics/charles-kao.jpg)
 
 - 姓名：高锟
 - 性别：男

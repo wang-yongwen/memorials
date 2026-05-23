@@ -1,6 +1,6 @@
 # 杨洁
 
-![](pics/yang-jie.jpg)
+![](../pics/yang-jie.jpg)
 
 - 姓名：杨洁
 - 性别：女

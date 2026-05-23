@@ -1,6 +1,6 @@
 # 中山美穗
 
-![](pics/miho-nakayama.jpg)
+![](../pics/miho-nakayama.jpg)
 
 - 姓名：中山美穗
 - 性别：女

@@ -1,6 +1,6 @@
 # 胡安·安东尼奥·萨马兰奇
 
-![](pics/juan-samaranch.jpg)
+![](../pics/juan-samaranch.jpg)
 
 - 姓名：胡安·安东尼奥·萨马兰奇
 - 性别：男

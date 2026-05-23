@@ -1,6 +1,6 @@
 # 秀兰·邓波儿
 
-![](pics/shirley-temple.jpg)
+![](../pics/shirley-temple.jpg)
 
 - 姓名：秀兰·邓波儿
 - 性别：女

@@ -1,6 +1,6 @@
 # 宋美龄
 
-![](pics/song-meiling.jpg)
+![](../pics/song-meiling.jpg)
 
 - 姓名：宋美龄
 - 性别：女

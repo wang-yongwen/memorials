@@ -1,6 +1,6 @@
 # 乔治·赫伯特·沃克·布什
 
-![](pics/george-bush.jpg)
+![](../pics/george-bush.jpg)
 
 - 姓名：乔治·赫伯特·沃克·布什
 - 性别：男

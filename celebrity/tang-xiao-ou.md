@@ -1,6 +1,6 @@
 # 汤晓鸥
 
-![](pics/tang-xiao-ou.jpg)
+![](../pics/tang-xiao-ou.jpg)
 
 - 姓名：汤晓鸥
 - 性别：男

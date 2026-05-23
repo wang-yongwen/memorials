@@ -1,6 +1,6 @@
 # 臧天朔
 
-![](pics/zang-tianshuo.jpg)
+![](../pics/zang-tianshuo.jpg)
 
 - 姓名：臧天朔
 - 性别：男

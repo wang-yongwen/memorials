@@ -1,6 +1,6 @@
 # 方济各（Pope Francis）
 
-![](pics/fang-ji-ge.jpg)
+![](../pics/fang-ji-ge.jpg)
 
 - 姓名：方济各（Pope Francis）
 - 性别：男

@@ -1,6 +1,6 @@
 # 珍·古道尔（Jane Goodall）
 
-![](pics/jane-goodall.jpg)
+![](../pics/jane-goodall.jpg)
 
 - 姓名：珍·古道尔（Jane Goodall）
 - 性别：女

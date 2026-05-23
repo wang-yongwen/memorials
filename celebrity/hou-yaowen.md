@@ -1,6 +1,6 @@
 # 侯耀文
 
-![](pics/hou-yaowen.jpg)
+![](../pics/hou-yaowen.jpg)
 
 - 姓名：侯耀文
 - 性别：男

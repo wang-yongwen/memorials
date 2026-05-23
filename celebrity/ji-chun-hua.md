@@ -1,6 +1,6 @@
 # 计春华
 
-![](pics/ji-chun-hua.jpg)
+![](../pics/ji-chun-hua.jpg)
 
 - 姓名：计春华
 - 性别：男
