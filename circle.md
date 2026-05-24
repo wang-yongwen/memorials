@@ -32,6 +32,11 @@
 - [杨得志](celebrity/yang-dezhi.md)（享年83岁）- 中国人民解放军上将
 - [李沛瑶](celebrity/li-peiyao.md)（享年63岁）- 民革中央主席
 - [任长霞](celebrity/ren-changxia.md)（享年40岁）- 中国公安系统一级英雄模范，登封市公安局局长
+- [孔繁森](celebrity/kong-fan-sen.md)（享年50岁）- 优秀援藏干部，阿里地委书记
+- [陈云](celebrity/chen-yun.md)（享年90岁）- 中国共产党杰出领导人，中国社会主义经济建设奠基人
+- [陆定一](celebrity/lu-ding-yi.md)（享年90岁）- 中国共产党重要领导人，原中宣部部长
+- [弗朗索瓦·密特朗](celebrity/francois-mitterrand.md)（享年79岁）- 法国前总统，推动欧洲一体化
+- [蒋纬国](celebrity/jiang-wei-guo.md)（享年81岁）- 蒋介石次子，国民党陆军二级上将
 
 ## 科学家与学者
 
@@ -63,6 +68,9 @@
 - [吴尊友](celebrity/wu-zun-you.md)（享年60岁）- 中国疾控中心流行病学首席专家
 - [戈登·贝尔](celebrity/gordon-bell.md)（享年89岁）- 美国计算机体系结构先驱，DEC小型机之父
 - [周光召](celebrity/zhou-guangzhao.md)（享年94岁）- 中国科学院院士，中国核武器理论奠基人
+- [吴健雄](celebrity/wu-jian-xiong.md)（享年85岁）- 美籍华裔物理学家，"核物理女王"，验证宇称不守恒
+- [高伯龙](celebrity/gao-bo-long.md)（享年89岁）- 中国激光陀螺之父，中国工程院院士
+- [吴文俊](celebrity/wu-wen-jun.md)（享年98岁）- 中国著名数学家，国家最高科学技术奖获得者
 
 ## 文学家与作家
 
@@ -90,6 +98,9 @@
 - [马识途](celebrity/ma-shi-tu.md)（享年109岁）- 著名作家、书法家
 - [樱桃子](celebrity/sakura-momoko.md)（享年53岁）- 日本漫画家
 - [鸟山明](celebrity/toriyama-akira.md)（享年68岁）- 日本漫画家，《龙珠》作者
+- [夏衍](celebrity/xia-yan.md)（享年95岁）- 中国著名剧作家、电影编剧，左翼电影运动开拓者
+- [曹禺](celebrity/cao-yu.md)（享年86岁）- 中国现代话剧奠基人，《雷雨》作者
+- [汪曾祺](celebrity/wang-zeng-qi.md)（享年77岁）- 中国著名作家、散文家，《受戒》作者
 
 ## 艺术家与演员
 

@@ -179,6 +179,8 @@
 - [黄易](celebrity/huang-yi.md)（享年65岁）- 玄幻武侠小说作家
 - [杨洁](celebrity/yang-jie.md)（享年88岁）- 《西游记》导演
 - [唐杰忠](celebrity/tang-jiezhong.md)（享年85岁）- 相声演员
+- [高伯龙](celebrity/gao-bo-long.md)（享年89岁）- 中国激光陀螺之父，中国工程院院士
+- [吴文俊](celebrity/wu-wen-jun.md)（享年98岁）- 中国著名数学家，国家最高科学技术奖获得者
 
 ## 2016年
 
@@ -309,6 +311,9 @@
 - [邓小平](celebrity/deng-xiao-ping.md)（享年93岁）- 中国改革开放总设计师
 - [戴安娜王妃](celebrity/diana-princess.md)（享年36岁）- 英国威尔士王妃
 - [王小波](celebrity/wang-xiaobo.md)（享年45岁）- 作家
+- [吴健雄](celebrity/wu-jian-xiong.md)（享年85岁）- 美籍华裔物理学家，"核物理女王"
+- [蒋纬国](celebrity/jiang-wei-guo.md)（享年81岁）- 蒋介石次子，国民党陆军二级上将
+- [汪曾祺](celebrity/wang-zeng-qi.md)（享年77岁）- 中国著名作家、散文家，《受戒》作者
 
 ## 1996年
 
@@ -317,6 +322,9 @@
 - [王洛宾](celebrity/wang-luobin.md)（享年83岁）- 作曲家
 - [陈景润](celebrity/chen-jingrun.md)（享年63岁）- 数学家
 - [李沛瑶](celebrity/li-peiyao.md)（享年63岁）- 民革中央主席
+- [曹禺](celebrity/cao-yu.md)（享年86岁）- 中国现代话剧奠基人，《雷雨》作者
+- [陆定一](celebrity/lu-ding-yi.md)（享年90岁）- 中国共产党重要领导人，原中宣部部长
+- [弗朗索瓦·密特朗](celebrity/francois-mitterrand.md)（享年79岁）- 法国前总统，推动欧洲一体化
 
 ## 1995年
 
@@ -324,9 +332,12 @@
 - [张爱玲](celebrity/zhang-ailing.md)（享年75岁）- 作家
 - [洛桑·尼玛](celebrity/luosang-nyima.md)（享年27岁）- 相声演员
 - [邓丽君](celebrity/deng-lijun.md)（享年42岁）- 歌手
+- [陈云](celebrity/chen-yun.md)（享年90岁）- 中国共产党杰出领导人，中国社会主义经济建设奠基人
+- [夏衍](celebrity/xia-yan.md)（享年95岁）- 中国著名剧作家、电影编剧，左翼电影运动开拓者
 
 ## 1994年
 
 - [杨得志](celebrity/yang-dezhi.md)（享年83岁）- 中国人民解放军上将
 - [爱新觉罗·溥杰](celebrity/aixinjueluo-pujie.md)（享年87岁）- 清朝末代皇帝溥仪之弟
 - [理查德·尼克松](celebrity/richard-nixon.md)（享年81岁）- 美国第37任总统
+- [孔繁森](celebrity/kong-fan-sen.md)（享年50岁）- 优秀援藏干部，阿里地委书记

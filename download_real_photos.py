@@ -185,8 +185,9 @@ def main():
         '乔治·阿玛尼': 'Giorgio_Armani',
         '弗雷德·史密斯': 'Frederick_W._Smith',
         '珍·古道尔': 'Jane_Goodall',
-        '方济各': 'Pope_Francis',
-    }
+    '方济各': 'Pope_Francis',
+    '弗朗索瓦·密特朗': 'François_Mitterrand',
+}
 
     for filename in files:
         key = filename.replace('.md', '')
