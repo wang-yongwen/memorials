@@ -2,6 +2,7 @@
 
 ## 目录
 
+- [2026年](#2026年)
 - [2025年](#2025年)
 - [2024年](#2024年)
 - [2023年](#2023年)
@@ -34,6 +35,12 @@
 - [1996年](#1996年)
 - [1995年](#1995年)
 - [1994年](#1994年)
+
+## 2026年
+
+- [刘洵](celebrity/liu-xun.md)（享年87岁）- 香港著名演员，"千面如来"
+- [梁小龙](celebrity/liang-xiao-long.md)（享年75岁）- 香港著名武打演员，《功夫》火云邪神
+- [张雪峰](celebrity/zhang-xue-feng.md)（享年41岁）- 峰学蔚来创始人，考研名师
 
 ## 2025年
 
@@ -100,6 +107,7 @@
 - [厉以宁](celebrity/li-yi-ning.md)（享年92岁）- 中国著名经济学家，股份制改革倡导者
 - [谢莉斯](celebrity/xie-li-si.md)（享年75岁）- 中国电影乐团歌唱家
 - [年广久](celebrity/nian-guang-jiu.md)（享年83岁）- "傻子瓜子"创始人，中国第一商贩
+- [Bram Moolenaar](celebrity/bram-moolenaar.md)（享年62岁）- Vim文本编辑器创造者
 
 ## 2022年
 
@@ -207,6 +215,7 @@
 - [加西亚·马尔克斯](celebrity/garcia-marquez.md)（享年87岁）- 魔幻现实主义文学代表
 - [秀兰·邓波儿](celebrity/shirley-temple.md)（享年85岁）- 美国童星
 - [高仓健](celebrity/takakura-ken.md)（享年83岁）- 日本演员
+- [宇津井健](celebrity/ken-utsui.md)（享年82岁）- 日本著名演员，《血疑》大岛茂扮演者
 - [张强](celebrity/zhang-qiang.md)（享年49岁）- 中国举重运动员
 
 ## 2013年
@@ -305,6 +314,9 @@
 
 - [钱钟书](celebrity/qian-zhongshu.md)（享年88岁）- 作家，《围城》作者
 - [黑泽明](celebrity/akira-kurosawa.md)（享年88岁）- 日本电影导演
+- [吕叔湘](celebrity/lv-shu-xiang.md)（享年94岁）- 中国语言学家、语文教育家
+- [舒同](celebrity/shu-tong.md)（享年93岁）- 书法大师，中国书协首任主席
+- [曾志](celebrity/zeng-zhi.md)（享年87岁）- 无产阶级革命家，原中组部副部长
 
 ## 1997年
 

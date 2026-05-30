@@ -34,6 +34,7 @@
 - [任长霞](celebrity/ren-changxia.md)（享年40岁）- 中国公安系统一级英雄模范，登封市公安局局长
 - [孔繁森](celebrity/kong-fan-sen.md)（享年50岁）- 优秀援藏干部，阿里地委书记
 - [陈云](celebrity/chen-yun.md)（享年90岁）- 中国共产党杰出领导人，中国社会主义经济建设奠基人
+- [曾志](celebrity/zeng-zhi.md)（享年87岁）- 无产阶级革命家，原中组部副部长
 - [陆定一](celebrity/lu-ding-yi.md)（享年90岁）- 中国共产党重要领导人，原中宣部部长
 - [弗朗索瓦·密特朗](celebrity/francois-mitterrand.md)（享年79岁）- 法国前总统，推动欧洲一体化
 - [蒋纬国](celebrity/jiang-wei-guo.md)（享年81岁）- 蒋介石次子，国民党陆军二级上将
@@ -71,6 +72,8 @@
 - [吴健雄](celebrity/wu-jian-xiong.md)（享年85岁）- 美籍华裔物理学家，"核物理女王"，验证宇称不守恒
 - [高伯龙](celebrity/gao-bo-long.md)（享年89岁）- 中国激光陀螺之父，中国工程院院士
 - [吴文俊](celebrity/wu-wen-jun.md)（享年98岁）- 中国著名数学家，国家最高科学技术奖获得者
+- [Bram Moolenaar](celebrity/bram-moolenaar.md)（享年62岁）- Vim文本编辑器创造者
+- [吕叔湘](celebrity/lv-shu-xiang.md)（享年94岁）- 中国语言学家、语文教育家
 
 ## 文学家与作家
 
@@ -147,6 +150,10 @@
 - [褚时健](celebrity/chu-shijian.md)（享年91岁）- 中国烟草大王、中国橙王
 - [傅彪](celebrity/fu-biao.md)（享年42岁）- 演员
 - [铁牛](celebrity/tie-niu.md)（享年93岁）- 演员
+- [刘洵](celebrity/liu-xun.md)（享年87岁）- 香港著名演员，"千面如来"
+- [梁小龙](celebrity/liang-xiao-long.md)（享年75岁）- 香港著名武打演员，《功夫》火云邪神
+- [宇津井健](celebrity/ken-utsui.md)（享年82岁）- 日本著名演员，《血疑》大岛茂扮演者
+- [舒同](celebrity/shu-tong.md)（享年93岁）- 书法大师，中国书协首任主席
 
 ## 音乐人
 
@@ -253,3 +260,4 @@
 - [曾仕强](celebrity/zeng-shiqiang.md)（享年84岁）- 中国式管理大师
 - [叶茂中](celebrity/ye-maozhong.md)（享年54岁）- 中国营销策划专家
 - [沈庆](celebrity/shen-qing.md)（享年52岁）- 校园民谣代表人物，《青春》作者
+- [张雪峰](celebrity/zhang-xue-feng.md)（享年41岁）- 峰学蔚来创始人，考研名师
