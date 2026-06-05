@@ -38,9 +38,11 @@
 
 ## 2026年
 
+- [刘维维](celebrity/liu-wei-wei.md)（享年69岁）- 中国著名男高音歌唱家，中央戏剧学院歌剧系首任系主任
 - [刘洵](celebrity/liu-xun.md)（享年87岁）- 香港著名演员，"千面如来"
 - [梁小龙](celebrity/liang-xiao-long.md)（享年75岁）- 香港著名武打演员，《功夫》火云邪神
 - [张雪峰](celebrity/zhang-xue-feng.md)（享年41岁）- 峰学蔚来创始人，考研名师
+- [铃木敏文](celebrity/suzuki-toshifumi.md)（享年93岁）- 日本7-Eleven创始人，柒和伊控股前董事长兼CEO
 
 ## 2025年
 
@@ -59,6 +61,15 @@
 - [杨少华](celebrity/yang-shao-hua.md)（享年94岁）- 中国著名相声表演艺术家
 - [蔡澜](celebrity/cai-lan.md)（享年83岁）- 香港四大才子之一，美食家、作家
 - [徐熙媛](celebrity/xu-xi-yuan.md)（享年48岁）- 中国台湾著名女演员、歌手
+- [赵晗](celebrity/zhao-han.md)（享年40岁）- 云海肴餐饮品牌联合创始人
+- [童正维](celebrity/tong-zheng-wei.md)（享年88岁）- 中国内地女演员，《编辑部的故事》牛大姐扮演者
+- [Rod Burstall](celebrity/rod-burstall.md)（享年90岁）- 英国计算机科学家，POP-2和Hope语言开发者，LFCS联合创始人
+- [Dave Täht](celebrity/dave-taeht.md)（享年59岁）- 美国网络工程师，Bufferbloat项目联合创始人，FQ-CoDel算法开发者
+- [Peter Lax](celebrity/peter-lax.md)（享年99岁）- 匈牙利裔美国数学家，阿贝尔奖得主
+- [Jean-Raymond Abrial](celebrity/jean-raymond-abrial.md)（享年86岁）- 法国计算机科学家，Z/B方法创始人
+- [George E. Smith](celebrity/george-smith.md)（享年95岁）- 美国物理学家，CCD发明人，诺贝尔物理学奖得主
+- [Barry Vercoe](celebrity/barry-vercoe.md)（享年87岁）- 新西兰裔美国计算机音乐先锋，Csound开发者
+- [Morton Meyerson](celebrity/morton-meyerson.md)（享年87岁）- 美国企业家，EDS总裁，IT外包商业模式开创者
 
 ## 2024年
 
@@ -88,6 +99,8 @@
 - [陈彼得](celebrity/chen-bide.md)（享年80岁）- 台湾流行音乐之父
 - [郭士纳](celebrity/lou-gerstner.md)（享年82岁）- IBM前CEO，带领IBM转型复兴
 - [杨立德](celebrity/yang-li-de.md)（享年73岁）- 台湾著名词曲作家，音乐制作人
+- [Niklaus Wirth](celebrity/niklaus-wirth.md)（享年89岁）- 瑞士计算机科学家，Pascal语言之父，图灵奖得主
+- [Robert Dennard](celebrity/robert-dennard.md)（享年91岁）- 美国电气工程师，DRAM内存发明者
 
 ## 2023年
 
@@ -108,6 +121,7 @@
 - [谢莉斯](celebrity/xie-li-si.md)（享年75岁）- 中国电影乐团歌唱家
 - [年广久](celebrity/nian-guang-jiu.md)（享年83岁）- "傻子瓜子"创始人，中国第一商贩
 - [Bram Moolenaar](celebrity/bram-moolenaar.md)（享年62岁）- Vim文本编辑器创造者
+- [朱令](celebrity/zhu-ling.md)（享年50岁）- 清华大学投毒案受害者
 
 ## 2022年
 
@@ -125,6 +139,7 @@
 - [蓝天野](celebrity/lan-tianye.md)（享年95岁）- 中国话剧表演艺术家
 - [曾江](celebrity/kenneth-tsang.md)（享年87岁）- 香港演员
 - [叶茂中](celebrity/ye-maozhong.md)（享年54岁）- 中国营销策划专家
+- [孙剑](celebrity/sun-jian.md)（享年45岁）- 旷视科技首席科学家，AI科学家
 
 ## 2021年
 
@@ -156,6 +171,9 @@
 - [于敏](celebrity/yu-min.md)（享年93岁）- 中国"氢弹之父"，共和国勋章获得者
 - [顾方舟](celebrity/gu-fangzhou.md)（享年92岁）- "糖丸爷爷"，中国脊髓灰质炎疫苗之父
 - [戴铁朗](celebrity/dai-tielang.md)（享年89岁）- 中国著名动画导演，《黑猫警长》总导演
+- [曾宪梓](celebrity/zeng-xian-zi.md)（享年85岁）- 香港金利来集团创办人，"领带大王"
+- [林清玄](celebrity/lin-qing-xuan.md)（享年65岁）- 中国台湾著名散文作家
+- [Fernando Corbató](celebrity/fernando-corbato.md)（享年93岁）- 美国计算机科学家，CTSS/Multics分时系统之父，图灵奖得主
 
 ## 2018年
 
@@ -189,6 +207,7 @@
 - [唐杰忠](celebrity/tang-jiezhong.md)（享年85岁）- 相声演员
 - [高伯龙](celebrity/gao-bo-long.md)（享年89岁）- 中国激光陀螺之父，中国工程院院士
 - [吴文俊](celebrity/wu-wen-jun.md)（享年98岁）- 中国著名数学家，国家最高科学技术奖获得者
+- [Charles Thacker](celebrity/charles-thacker.md)（享年74岁）- 美国计算机科学家，Xerox Alto设计者，图灵奖得主
 
 ## 2016年
 
@@ -200,6 +219,8 @@
 - [庄奴](celebrity/zhuang-nu.md)（享年95岁）- 词坛泰斗，《甜蜜蜜》作者
 - [葛存壮](celebrity/ge-cunzhuang.md)（享年87岁）- 演员
 - [艾伦·里克曼](celebrity/alan-rickman.md)（享年69岁）- 英国演员
+- [Peter Naur](celebrity/peter-naur.md)（享年87岁）- 丹麦计算机科学家，BNF范式改进者，图灵奖得主
+- [Marvin Minsky](celebrity/marvin-minsky.md)（享年88岁）- 美国计算机科学家，人工智能之父，图灵奖得主
 
 ## 2015年
 
@@ -208,6 +229,7 @@
 - [袁阔成](celebrity/yuan-kuocheng.md)（享年86岁）- 评书表演艺术家
 - [笑林](celebrity/xiao-lin.md)（享年59岁）- 相声演员
 - [铁牛](celebrity/tie-niu.md)（享年93岁）- 演员
+- [Ian Murdock](celebrity/ian-murdock.md)（享年42岁）- Debian Linux发行版创始人
 
 ## 2014年
 
@@ -222,6 +244,7 @@
 
 - [陈招娣](celebrity/chen-zhaodi.md)（享年58岁）- 中国女排运动员
 - [辛丰年](celebrity/xin-fengnian.md)（享年90岁）- 音乐评论家
+- [Aaron Swartz](celebrity/aaron-swartz.md)（享年26岁）- 美国程序员，Reddit联合创始人，网络信息开放倡导者
 
 ## 2012年
 

@@ -33,6 +33,7 @@ celebrity_prompts = {
     'li-zhao-ji': 'Lee Shau Kee, Hong Kong real estate tycoon, founder of Henderson Land',
     'li-zheng-dao': 'Tsung-Dao Lee, Nobel Prize in Physics, Chinese-American physicist',
     'liu-jia-chang': 'Liu Jiachang, Chinese music godfather',
+    'liu-wei-wei': 'Liu Weiwei, Chinese tenor, opera singer, spinto tenor, national first-class performer',
     'lu-shu-ming': 'Lu Shuming, Chinese actor, played Guan Yu in Romance of the Three Kingdoms',
     'ma-shi-tu': 'Ma Shitu, Chinese writer and calligrapher',
     'maggie-smith': 'Maggie Smith, British actress, Oscar winner',

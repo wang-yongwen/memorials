@@ -74,6 +74,21 @@
 - [吴文俊](celebrity/wu-wen-jun.md)（享年98岁）- 中国著名数学家，国家最高科学技术奖获得者
 - [Bram Moolenaar](celebrity/bram-moolenaar.md)（享年62岁）- Vim文本编辑器创造者
 - [吕叔湘](celebrity/lv-shu-xiang.md)（享年94岁）- 中国语言学家、语文教育家
+- [孙剑](celebrity/sun-jian.md)（享年45岁）- 旷视科技首席科学家，ResNet开发者
+- [Aaron Swartz](celebrity/aaron-swartz.md)（享年26岁）- 美国程序员，Reddit联合创始人，网络信息开放倡导者
+- [Niklaus Wirth](celebrity/niklaus-wirth.md)（享年89岁）- 瑞士计算机科学家，Pascal语言之父，图灵奖得主
+- [Robert Dennard](celebrity/robert-dennard.md)（享年91岁）- 美国电气工程师，DRAM内存发明者
+- [Ian Murdock](celebrity/ian-murdock.md)（享年42岁）- Debian Linux发行版创始人
+- [Peter Naur](celebrity/peter-naur.md)（享年87岁）- 丹麦计算机科学家，BNF范式改进者，图灵奖得主
+- [Marvin Minsky](celebrity/marvin-minsky.md)（享年88岁）- 美国计算机科学家，人工智能之父，图灵奖得主
+- [Charles Thacker](celebrity/charles-thacker.md)（享年74岁）- 美国计算机科学家，第一台现代个人电脑设计者
+- [Fernando Corbató](celebrity/fernando-corbato.md)（享年93岁）- 美国计算机科学家，分时系统之父，图灵奖得主
+- [Rod Burstall](celebrity/rod-burstall.md)（享年90岁）- 英国计算机科学家，POP-2和Hope语言开发者
+- [Dave Täht](celebrity/dave-taeht.md)（享年59岁）- 美国网络工程师，Bufferbloat项目联合创始人
+- [Jean-Raymond Abrial](celebrity/jean-raymond-abrial.md)（享年86岁）- 法国计算机科学家，Z/B方法创始人
+- [George E. Smith](celebrity/george-smith.md)（享年95岁）- 美国物理学家，CCD发明人，诺贝尔物理学奖得主
+- [Peter Lax](celebrity/peter-lax.md)（享年99岁）- 匈牙利裔美国数学家，阿贝尔奖得主
+- [Barry Vercoe](celebrity/barry-vercoe.md)（享年87岁）- 新西兰裔美国计算机音乐先锋，Csound开发者
 
 ## 文学家与作家
 
@@ -104,6 +119,7 @@
 - [夏衍](celebrity/xia-yan.md)（享年95岁）- 中国著名剧作家、电影编剧，左翼电影运动开拓者
 - [曹禺](celebrity/cao-yu.md)（享年86岁）- 中国现代话剧奠基人，《雷雨》作者
 - [汪曾祺](celebrity/wang-zeng-qi.md)（享年77岁）- 中国著名作家、散文家，《受戒》作者
+- [林清玄](celebrity/lin-qing-xuan.md)（享年65岁）- 中国台湾著名散文作家
 
 ## 艺术家与演员
 
@@ -154,6 +170,7 @@
 - [梁小龙](celebrity/liang-xiao-long.md)（享年75岁）- 香港著名武打演员，《功夫》火云邪神
 - [宇津井健](celebrity/ken-utsui.md)（享年82岁）- 日本著名演员，《血疑》大岛茂扮演者
 - [舒同](celebrity/shu-tong.md)（享年93岁）- 书法大师，中国书协首任主席
+- [童正维](celebrity/tong-zheng-wei.md)（享年88岁）- 中国内地女演员，《编辑部的故事》牛大姐扮演者
 
 ## 音乐人
 
@@ -183,6 +200,7 @@
 - [谢莉斯](celebrity/xie-li-si.md)（享年75岁）- 中国电影乐团歌唱家
 - [小泽征尔](celebrity/seiji-ozawa.md)（享年88岁）- 日本著名指挥家
 - [杨立德](celebrity/yang-li-de.md)（享年73岁）- 台湾著名词曲作家，音乐制作人
+- [刘维维](celebrity/liu-wei-wei.md)（享年69岁）- 中国著名男高音歌唱家，中央戏剧学院歌剧系首任系主任
 
 ## 曲艺与表演艺术家
 
@@ -224,6 +242,10 @@
 - [蔡澜](celebrity/cai-lan.md)（享年83岁）- 香港四大才子之一，美食家、作家
 - [倪匡](celebrity/ni-kuang.md)（享年87岁）- 香港四大才子，卫斯理系列作者
 - [陈彼得](celebrity/chen-bide.md)（享年80岁）- 台湾流行音乐之父
+- [铃木敏文](celebrity/suzuki-toshifumi.md)（享年93岁）- 日本7-Eleven创始人，柒和伊控股前董事长兼CEO
+- [曾宪梓](celebrity/zeng-xian-zi.md)（享年85岁）- 香港金利来集团创办人，"领带大王"
+- [赵晗](celebrity/zhao-han.md)（享年40岁）- 云海肴餐饮品牌联合创始人
+- [Morton Meyerson](celebrity/morton-meyerson.md)（享年87岁）- 美国企业家，EDS总裁，IT外包商业模式开创者
 
 ## 体育界
 
@@ -261,3 +283,4 @@
 - [叶茂中](celebrity/ye-maozhong.md)（享年54岁）- 中国营销策划专家
 - [沈庆](celebrity/shen-qing.md)（享年52岁）- 校园民谣代表人物，《青春》作者
 - [张雪峰](celebrity/zhang-xue-feng.md)（享年41岁）- 峰学蔚来创始人，考研名师
+- [朱令](celebrity/zhu-ling.md)（享年50岁）- 清华大学投毒案受害者
