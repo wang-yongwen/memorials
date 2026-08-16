@@ -38,14 +38,19 @@
 
 ## 2026年
 
+- [宋平](celebrity/song-ping.md)（享年109岁）- 前中央政治局常委、中央组织部部长
+- [朱镕基](celebrity/zhu-rongji.md)（享年98岁）- 国务院原总理，党和国家的卓越领导人
+- [谢贤](celebrity/xie-xian.md)（享年89岁）- 香港殿堂级演员，金像奖终身成就奖得主
 - [刘维维](celebrity/liu-wei-wei.md)（享年69岁）- 中国著名男高音歌唱家，中央戏剧学院歌剧系首任系主任
 - [刘洵](celebrity/liu-xun.md)（享年87岁）- 香港著名演员，"千面如来"
 - [梁小龙](celebrity/liang-xiao-long.md)（享年75岁）- 香港著名武打演员，《功夫》火云邪神
+- [聂卫平](celebrity/nie-weiping.md)（享年73岁）- "棋圣"，中日围棋擂台赛11连胜，中国围棋职业九段
 - [张雪峰](celebrity/zhang-xue-feng.md)（享年41岁）- 峰学蔚来创始人，考研名师
 - [铃木敏文](celebrity/suzuki-toshifumi.md)（享年93岁）- 日本7-Eleven创始人，柒和伊控股前董事长兼CEO
 
 ## 2025年
 
+- [邹家华](celebrity/zou-jia-hua.md)（享年99岁）- 前国务院副总理
 - [珍·古道尔](celebrity/jane-goodall.md)（享年91岁）- 英国著名动物行为学家，联合国和平使者
 - [乔治·阿玛尼](celebrity/giorgio-armani.md)（享年91岁）- 意大利著名时装设计师，阿玛尼品牌创始人
 - [方济各](celebrity/fang-ji-ge.md)（享年88岁）- 第266任天主教罗马教皇
@@ -73,6 +78,10 @@
 
 ## 2024年
 
+- [吴邦国](celebrity/wu-bang-guo.md)（享年84岁）- 前全国人大常委会委员长
+- [张存浩](celebrity/zhang-cun-hao.md)（享年96岁）- 化学激光奠基人，国家最高科学技术奖得主
+- [阿兰·德龙](celebrity/alain-delon.md)（享年88岁）- 法国传奇影星，《佐罗》主演
+- [希格斯](celebrity/peter-higgs.md)（享年94岁）- 诺贝尔物理学奖得主，希格斯玻色子预言者
 - [周光召](celebrity/zhou-guangzhao.md)（享年94岁）- 中国科学院院士，中国核武器理论奠基人
 - [琼瑶](celebrity/qiong-yao.md)（享年86岁）- 台湾言情小说家、编剧
 - [李政道](celebrity/li-zheng-dao.md)（享年97岁）- 诺贝尔物理学奖获得者，美籍华人物理学家
@@ -104,6 +113,11 @@
 
 ## 2023年
 
+- [基辛格](celebrity/henry-kissinger.md)（享年100岁）- 美国前国务卿，中美关系破冰者
+- [李克强](celebrity/li-ke-qiang.md)（享年68岁）- 前国务院总理
+- [古迪纳夫](celebrity/john-goodenough.md)（享年100岁）- "锂电池之父"，诺贝尔化学奖得主
+- [吴耀汉](celebrity/wu-yao-han.md)（享年83岁）- 香港喜剧演员
+- [顾嘉辉](celebrity/gu-jia-hui.md)（享年91岁）- 香港乐坛教父，作曲家
 - [汤晓鸥](celebrity/tang-xiao-ou.md)（享年55岁）- 商汤科技创始人、AI科学家
 - [吴尊友](celebrity/wu-zun-you.md)（享年60岁）- 中国疾控中心流行病学首席专家
 - [查理·芒格](celebrity/charlie-munger.md)（享年99岁）- 伯克希尔公司副主席，巴菲特黄金搭档
@@ -125,6 +139,9 @@
 
 ## 2022年
 
+- [江泽民](celebrity/jiang-ze-min.md)（享年96岁）- 中国前最高领导人，提出"三个代表"重要思想
+- [戈尔巴乔夫](celebrity/mikhail-gorbachev.md)（享年91岁）- 苏联最后一位领导人，诺贝尔和平奖得主
+- [安倍晋三](celebrity/shinzo-abe.md)（享年67岁）- 日本前首相，在任时间最长
 - [贝利](celebrity/pele.md)（享年82岁）- 巴西球王，世纪最佳运动员
 - [稻盛和夫](celebrity/inamori-kazuo.md)（享年90岁）- 京瓷创始人，日本经营之圣
 - [倪匡](celebrity/ni-kuang.md)（享年87岁）- 香港四大才子，卫斯理系列作者
@@ -143,6 +160,9 @@
 
 ## 2021年
 
+- [卢泰愚](celebrity/roh-tae-woo.md)（享年88岁）- 韩国前总统
+- [吴孟超](celebrity/wu-meng-chao.md)（享年99岁）- 中国肝胆外科之父，国家最高科学技术奖得主
+- [廖启智](celebrity/liao-qi-zhi.md)（享年66岁）- 香港演员，两届金像奖最佳男配角
 - [袁隆平](celebrity/yuan-long-ping.md)（享年91岁）- 杂交水稻之父，共和国勋章获得者
 - [李泽厚](celebrity/li-ze-hou.md)（享年91岁）- 中国当代著名哲学家、美学家
 - [左晖](celebrity/zuo-hui.md)（享年50岁）- 贝壳找房创始人，链家创始人
@@ -151,6 +171,7 @@
 
 ## 2020年
 
+- [查德维克·博斯曼](celebrity/chadwick-boseman.md)（享年43岁）- 美国演员，《黑豹》主演
 - [奥利维亚·德哈维兰](celebrity/olivia-de-havilland.md)（享年104岁）- 美国著名女演员，两次奥斯卡最佳女主角奖得主
 - [何鸿燊](celebrity/stanley-ho.md)（享年98岁）- 澳门赌王，爱国企业家、慈善家
 - [皮尔·卡丹](celebrity/pierre-cardin.md)（享年98岁）- 法国著名时装设计师，时尚帝国缔造者
@@ -163,6 +184,10 @@
 
 ## 2019年
 
+- [中曾根康弘](celebrity/yasuhiro-nakasone.md)（享年101岁）- 日本前首相
+- [高以翔](celebrity/gao-yi-xiang.md)（享年35岁）- 台湾演员，《遇见王沥川》主演
+- [希拉克](celebrity/jacques-chirac.md)（享年86岁）- 法国前总统
+- [李鹏](celebrity/li-peng.md)（享年91岁）- 前国务院总理
 - [玛丽·弗雷德里克森](celebrity/marie-fredriksson.md)（享年61岁）- 瑞典著名歌手，Roxette乐队主唱
 - [姚莉](celebrity/yao-li.md)（享年96岁）- 民国时期著名歌手，"银嗓子"
 - [贝聿铭](celebrity/i-ming-pei.md)（享年102岁）- 美籍华裔建筑师，"现代建筑最后大师"
@@ -177,6 +202,8 @@
 
 ## 2018年
 
+- [田家炳](celebrity/tin-ka-ping.md)（享年99岁）- 慈善家，"百校之父"
+- [饶宗颐](celebrity/rao-zong-yi.md)（享年101岁）- 国学大师，"南饶北季"
 - [李咏](celebrity/li-yong.md)（享年50岁）- 中国内地著名节目主持人
 - [计春华](celebrity/ji-chun-hua.md)（享年56岁）- 中国内地男演员、武术家
 - [史蒂芬·霍金](celebrity/stephen-hawking.md)（享年76岁）- 英国著名理论物理学家
@@ -198,6 +225,8 @@
 
 ## 2017年
 
+- [查斯特·贝宁顿](celebrity/chester-bennington.md)（享年41岁）- 林肯公园乐队主唱
+- [科尔](celebrity/helmut-kohl.md)（享年87岁）- 德国前总理，"统一之父"
 - [钱其琛](celebrity/qian-qichen.md)（享年89岁）- 中国著名外交家
 - [黄大年](celebrity/huang-danian.md)（享年58岁）- 世界著名地球物理学家
 - [周有光](celebrity/zhou-youguang.md)（享年112岁）- 汉语拼音之父
@@ -211,6 +240,10 @@
 
 ## 2016年
 
+- [乔治·迈克尔](celebrity/george-michael.md)（享年53岁）- 英国歌手，威猛乐队主唱
+- [郑裕彤](celebrity/cheng-yu-tung.md)（享年91岁）- 新世界/周大福创办人，"珠宝大王"
+- [王子](celebrity/prince.md)（享年57岁）- 美国音乐家，流行乐天才
+- [大卫·鲍伊](celebrity/david-bowie.md)（享年69岁）- 英国摇滚音乐家，"摇滚变色龙"
 - [菲德尔·卡斯特罗](celebrity/fidel-castro.md)（享年90岁）- 古巴革命领袖
 - [穆罕默德·阿里](celebrity/muhammad-ali.md)（享年74岁）- 拳王阿里
 - [杨绛](celebrity/yang-jiang.md)（享年105岁）- 作家、翻译家
@@ -224,6 +257,10 @@
 
 ## 2015年
 
+- [万里](celebrity/wan-li.md)（享年99岁）- 前全国人大常委会委员长，农村改革先行者
+- [乔石](celebrity/qiao-shi.md)（享年91岁）- 前全国人大常委会委员长
+- [李光耀](celebrity/lee-kuan-yew.md)（享年91岁）- 新加坡开国总理
+- [何振梁](celebrity/he-zhen-liang.md)（享年85岁）- 国际奥委会委员，中国申奥功臣
 - [姚贝娜](celebrity/yao-bei-na.md)（享年33岁）- 中国内地著名青年歌手
 - [张震](celebrity/zhang-zhen.md)（享年101岁）- 中国人民解放军上将
 - [袁阔成](celebrity/yuan-kuocheng.md)（享年86岁）- 评书表演艺术家
@@ -233,6 +270,9 @@
 
 ## 2014年
 
+- [罗宾·威廉姆斯](celebrity/robin-williams.md)（享年63岁）- 美国喜剧演员，奥斯卡得主
+- [午马](celebrity/wu-ma.md)（享年71岁）- 香港演员，《倩女幽魂》燕赤霞
+- [沙龙](celebrity/ariel-sharon.md)（享年85岁）- 以色列前总理
 - [邵逸夫](celebrity/run-run-shaw.md)（享年107岁）- 香港影视企业家
 - [加西亚·马尔克斯](celebrity/garcia-marquez.md)（享年87岁）- 魔幻现实主义文学代表
 - [秀兰·邓波儿](celebrity/shirley-temple.md)（享年85岁）- 美国童星
@@ -242,17 +282,26 @@
 
 ## 2013年
 
+- [曼德拉](celebrity/nelson-mandela.md)（享年95岁）- 南非首位黑人总统，诺贝尔和平奖得主
+- [保罗·沃克](celebrity/paul-walker.md)（享年40岁）- 美国演员，《速度与激情》主演
+- [撒切尔夫人](celebrity/margaret-thatcher.md)（享年87岁）- 英国首位女首相，"铁娘子"
+- [庄则栋](celebrity/zhuang-ze-dong.md)（享年73岁）- 乒乓球世界冠军，"乒乓外交"参与者
 - [陈招娣](celebrity/chen-zhaodi.md)（享年58岁）- 中国女排运动员
 - [辛丰年](celebrity/xin-fengnian.md)（享年90岁）- 音乐评论家
 - [Aaron Swartz](celebrity/aaron-swartz.md)（享年26岁）- 美国程序员，Reddit联合创始人，网络信息开放倡导者
 
 ## 2012年
 
+- [南怀瑾](celebrity/nan-huai-jin.md)（享年95岁）- 国学大师，传统文化传播者
+- [惠特妮·休斯顿](celebrity/whitney-houston.md)（享年48岁）- 美国天后级歌手
 - [迈克·华莱士](celebrity/mike-wallace.md)（享年93岁）- 美国新闻记者
 - [凤飞飞](celebrity/fong-fei-fei.md)（享年58岁）- 台湾歌手
 
 ## 2011年
 
+- [木心](celebrity/mu-xin.md)（享年84岁）- 作家、画家，《文学回忆录》作者
+- [卡扎菲](celebrity/muammar-gaddafi.md)（享年69岁）- 利比亚前最高领导人
+- [朱光亚](celebrity/zhu-guang-ya.md)（享年87岁）- "两弹一星"元勋，中国工程院首任院长
 - [史蒂夫·乔布斯](celebrity/steve-jobs.md)（享年56岁）- 苹果公司联合创始人
 - [丹尼斯·里奇](celebrity/dennis-ritchie.md)（享年70岁）- C语言创造者
 - [伊丽莎白·泰勒](celebrity/elizabeth-taylor.md)（享年79岁）- 美国女演员
@@ -260,6 +309,8 @@
 
 ## 2010年
 
+- [史铁生](celebrity/shi-tie-sheng.md)（享年59岁）- 作家，《我与地坛》作者
+- [钱伟长](celebrity/qian-wei-chang.md)（享年98岁）- "三钱"之一，著名力学家、教育家
 - [王江民](celebrity/wang-jiangmin.md)（享年59岁）- 中国杀毒软件之父
 - [胡安·安东尼奥·萨马兰奇](celebrity/juan-samaranch.md)（享年89岁）- 国际奥委会前主席
 - [J.D.塞林格](celebrity/jd-salinger.md)（享年91岁）- 《麦田里的守望者》作者
@@ -267,6 +318,9 @@
 
 ## 2009年
 
+- [成奎安](celebrity/cheng-kui-an.md)（享年54岁）- 香港演员，"大傻"
+- [金大中](celebrity/kim-dae-jung.md)（享年85岁）- 韩国前总统，诺贝尔和平奖得主
+- [季羡林](celebrity/ji-xian-lin.md)（享年98岁）- 国学大师，东方学、梵文研究泰斗
 - [钱学森](celebrity/qian-xuesen.md)（享年98岁）- 中国航天之父
 - [梁羽生](celebrity/liang-yusheng.md)（享年85岁）- 武侠小说作家
 - [迈克尔·杰克逊](celebrity/michael-jackson.md)（享年50岁）- 流行音乐之王
@@ -276,6 +330,9 @@
 
 ## 2008年
 
+- [华国锋](celebrity/hua-guo-feng.md)（享年87岁）- 前中共中央主席、国务院总理
+- [柏杨](celebrity/bo-yang.md)（享年89岁）- 台湾作家，《丑陋的中国人》作者
+- [希斯·莱杰](celebrity/heath-ledger.md)（享年28岁）- 澳大利亚演员，奥斯卡最佳男配角
 - [谢晋](celebrity/xie-jin.md)（享年85岁）- 著名电影导演
 - [沈殿霞](celebrity/shen-dianxia.md)（享年62岁）- 香港演员
 - [魏巍](celebrity/wei-wei.md)（享年88岁）- 作家，《谁是最可爱的人》作者
@@ -283,16 +340,23 @@
 
 ## 2007年
 
+- [彭桓武](celebrity/peng-huan-wu.md)（享年92岁）- "两弹一星"元勋，理论物理学家
+- [薄一波](celebrity/bo-yi-bo.md)（享年99岁）- 中共元老、前国务院副总理
 - [陈晓旭](celebrity/chen-xiao-xu.md)（享年42岁）- 中国内地著名女演员，87版《红楼梦》林黛玉扮演者
 - [侯耀文](celebrity/hou-yaowen.md)（享年59岁）- 相声演员
 
 ## 2006年
 
+- [霍英东](celebrity/henry-fok.md)（享年84岁）- 香港爱国实业家
+- [王选](celebrity/wang-xuan.md)（享年70岁）- 汉字激光照排之父，国家最高科学技术奖得主
 - [马季](celebrity/ma-ji.md)（享年72岁）- 相声大师
 - [俞逊发](celebrity/yu-xunfa.md)（享年60岁）- 笛子演奏家
 
 ## 2005年
 
+- [巴金](celebrity/ba-jin.md)（享年101岁）- 现代文学巨匠，《家》《春》《秋》作者
+- [黄昆](celebrity/huang-kun.md)（享年86岁）- 固体物理学奠基人，国家最高科学技术奖得主
+- [赵紫阳](celebrity/zhao-zi-yang.md)（享年85岁）- 前国务院总理、中共中央总书记
 - [启功](celebrity/qi-gong.md)（享年93岁）- 书法家、教育家
 - [傅彪](celebrity/fu-biao.md)（享年42岁）- 演员
 - [高秀敏](celebrity/gao-xiumin.md)（享年46岁）- 小品演员
@@ -301,6 +365,7 @@
 
 ## 2004年
 
+- [黄霑](celebrity/huang-zhan.md)（享年63岁）- 香港四大才子之一，词坛教父
 - [任长霞](celebrity/ren-changxia.md)（享年40岁）- 中国公安系统一级英雄模范，登封市公安局局长
 - [陈省身](celebrity/chen-xingshen.md)（享年93岁）- 微分几何之父
 
@@ -315,6 +380,7 @@
 
 ## 2002年
 
+- [罗文](celebrity/luo-wen.md)（享年57岁）- 香港歌王，《狮子山下》演唱者
 - [袁世海](celebrity/yuan-shihai.md)（享年86岁）- 京剧表演艺术家
 
 ## 2001年
@@ -335,6 +401,8 @@
 
 ## 1998年
 
+- [王淦昌](celebrity/wang-gan-chang.md)（享年91岁）- "两弹一星"元勋，核物理学家
+- [杨尚昆](celebrity/yang-shang-kun.md)（享年92岁）- 前国家主席
 - [钱钟书](celebrity/qian-zhongshu.md)（享年88岁）- 作家，《围城》作者
 - [黑泽明](celebrity/akira-kurosawa.md)（享年88岁）- 日本电影导演
 - [吕叔湘](celebrity/lv-shu-xiang.md)（享年94岁）- 中国语言学家、语文教育家
@@ -343,6 +411,9 @@
 
 ## 1997年
 
+- [张雨生](celebrity/zhang-yu-sheng.md)（享年31岁）- 台湾歌手，《我的未来不是梦》演唱者
+- [林正英](celebrity/lin-zheng-ying.md)（享年45岁）- 香港演员，"僵尸道长"
+- [彭真](celebrity/peng-zhen.md)（享年95岁）- 前全国人大常委会委员长
 - [邓小平](celebrity/deng-xiao-ping.md)（享年93岁）- 中国改革开放总设计师
 - [戴安娜王妃](celebrity/diana-princess.md)（享年36岁）- 英国威尔士王妃
 - [王小波](celebrity/wang-xiaobo.md)（享年45岁）- 作家
